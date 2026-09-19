@@ -1,0 +1,15 @@
+{
+  "name": "pap_rad_hmv",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Working materials for a PCCM fellows' talk on PAP, respiratory assist devices, and home mechanical ventilation.",
+  "engines": {
+    "node": ">=22"
+  },
+  "scripts": {
+    "build": "node PAP_RAD_HMV_deck_generator.js"
+  },
+  "dependencies": {
+    "pptxgenjs": "4.0.1"
+  }
+}
