@@ -1,0 +1,21 @@
+{
+  "version": "2",
+  "reference_date": "2026-09-19",
+  "slides": 38,
+  "main_slides": 26,
+  "hidden_appendix_slides": 12,
+  "pdf_pages": 38,
+  "nominal_main_minutes": 40,
+  "discussion_minutes": 5,
+  "companion_word_count": 17723,
+  "shape_boundary_violations": [],
+  "missing_rendered_tokens": [],
+  "preliminary_layout_height_warnings": [],
+  "errors": [],
+  "visual_review": "Rendered all 38 slides; montage review plus full-size inspection of selected history, physiology, claims, policy, and appendix slides. Final files reviewed after layout corrections.",
+  "limitations": [
+    "Rendered with LibreOffice in this environment, not Microsoft PowerPoint on the presentation computer.",
+    "Historical photograph is attributed; unrestricted online redistribution permission is not established.",
+    "Nominal timing is an allocation, not a measured rehearsal."
+  ]
+}
