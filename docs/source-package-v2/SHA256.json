@@ -1,0 +1,62 @@
+{
+  "PAP_RAD_HMV_Pathways_v2.pptx": {
+    "bytes": 298724,
+    "sha256": "c26e983a720dac16f80a37a49cea5c9de087a3a1262c0a21717c705ca196ea4c"
+  },
+  "PAP_RAD_HMV_Pathways_v2.pdf": {
+    "bytes": 407552,
+    "sha256": "d8b2f4613904cc39bf81c279787ece11656f2707240f1b15db35ef6b30d3df55"
+  },
+  "PAP_RAD_HMV_Companion_v2.md": {
+    "bytes": 132387,
+    "sha256": "e17d9ba38cb109f077a494350dd518a0fac4bf505bddba969c28b60fe2d1d9fa"
+  },
+  "README.md": {
+    "bytes": 8470,
+    "sha256": "f70816e545a6aab8555b2844868e8ee001550481ec108d785046797854879bae"
+  },
+  "build/content.py": {
+    "bytes": 127781,
+    "sha256": "8d370978eebfbbb858b5ed133d3d0d1918c1083ed8277166537ff406797237b0"
+  },
+  "build/make_deck.py": {
+    "bytes": 19833,
+    "sha256": "38e2efea9003313d92afb0067d86c1063361d9be9f7efd613c91a422da9ed60f"
+  },
+  "build/render_qa.py": {
+    "bytes": 912,
+    "sha256": "8e7900c5adcd3e9e785b174267861dc4adba19437e5eb3041dfe79f7c7167afc"
+  },
+  "build/validate.py": {
+    "bytes": 3202,
+    "sha256": "63ad1f0bea448c68ece126685940966937c60735c248f6ecbc67470d78ebd950"
+  },
+  "build/references.json": {
+    "bytes": 19667,
+    "sha256": "abcbef632ad4e5c9929000d0bc356d1dc0ca2950b119e6fea71eabf715b1669b"
+  },
+  "build/slides.json": {
+    "bytes": 136312,
+    "sha256": "dab1a476070856e94c17187ab2456cea1ec4092224b5dff5161ba249ebfd4474"
+  },
+  "build/requirements.txt": {
+    "bytes": 50,
+    "sha256": "f97609f76c9480fcb34bac9d4e19bb0c6c36c586495f926af3ea5944f8179a49"
+  },
+  "assets/iron_lung_hind2017.jpeg": {
+    "bytes": 64641,
+    "sha256": "75981dcf7f80a4325a6f0e554a4dcbf7c45d691e88a291d7b51c7a3f127dbb65"
+  },
+  "qa/validation.json": {
+    "bytes": 872,
+    "sha256": "3d284a3facdc17dd3178ee690b6c0b989bbf2e40f76bdb8da52d609d5305a6c5"
+  },
+  "qa/text_boxes.json": {
+    "bytes": 95270,
+    "sha256": "6f1a10566de0788f7726169967d1946fcec2cd043eea756a515712e419aeb891"
+  },
+  "qa/layout_estimates.json": {
+    "bytes": 2,
+    "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+  }
+}

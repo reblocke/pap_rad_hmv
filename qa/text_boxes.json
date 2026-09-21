@@ -1,0 +1,5294 @@
+[
+  {
+    "slide": 1,
+    "text": "Hind et al. 2017 [R05] · 71 FR 4518–4525 (2006) [R13] · R16",
+    "x": 0.64,
+    "y": 7.045,
+    "w": 10.65,
+    "h": 0.27,
+    "size": 10.2
+  },
+  {
+    "slide": 1,
+    "text": "S01",
+    "x": 11.363332999999999,
+    "y": 7.045,
+    "w": 1.33,
+    "h": 0.25,
+    "size": 10.2
+  },
+  {
+    "slide": 1,
+    "text": "PULMONARY & CRITICAL CARE FELLOWS",
+    "x": 0.64,
+    "y": 0.56,
+    "w": 10,
+    "h": 0.28,
+    "size": 13
+  },
+  {
+    "slide": 1,
+    "text": "PAP, RADs, HMVs",
+    "x": 0.64,
+    "y": 1.43,
+    "w": 12.053333,
+    "h": 1.05,
+    "size": 53
+  },
+  {
+    "slide": 1,
+    "text": "Three development pathways and the current landscape",
+    "x": 0.64,
+    "y": 2.63,
+    "w": 10.2,
+    "h": 0.85,
+    "size": 29
+  },
+  {
+    "slide": 1,
+    "text": "Brian W. Locke",
+    "x": 0.64,
+    "y": 4.0,
+    "w": 6,
+    "h": 0.52,
+    "size": 25
+  },
+  {
+    "slide": 1,
+    "text": "01",
+    "x": 0.64,
+    "y": 4.91,
+    "w": 2.86333325,
+    "h": 0.36,
+    "size": 16
+  },
+  {
+    "slide": 1,
+    "text": "Home mechanical\nventilation",
+    "x": 0.64,
+    "y": 5.34,
+    "w": 2.86333325,
+    "h": 1.0,
+    "size": 23
+  },
+  {
+    "slide": 1,
+    "text": "02",
+    "x": 3.7033332500000005,
+    "y": 4.91,
+    "w": 2.86333325,
+    "h": 0.36,
+    "size": 16
+  },
+  {
+    "slide": 1,
+    "text": "Sleep apnea and\nPAP",
+    "x": 3.7033332500000005,
+    "y": 5.34,
+    "w": 2.86333325,
+    "h": 1.0,
+    "size": 23
+  },
+  {
+    "slide": 1,
+    "text": "03",
+    "x": 6.7666665,
+    "y": 4.91,
+    "w": 2.86333325,
+    "h": 0.36,
+    "size": 16
+  },
+  {
+    "slide": 1,
+    "text": "Respiratory assist\ndevices",
+    "x": 6.7666665,
+    "y": 5.34,
+    "w": 2.86333325,
+    "h": 1.0,
+    "size": 23
+  },
+  {
+    "slide": 1,
+    "text": "04",
+    "x": 9.829999750000002,
+    "y": 4.91,
+    "w": 2.86333325,
+    "h": 0.36,
+    "size": 16
+  },
+  {
+    "slide": 1,
+    "text": "Current uses and\ncoverage",
+    "x": 9.829999750000002,
+    "y": 5.34,
+    "w": 2.86333325,
+    "h": 1.0,
+    "size": 23
+  },
+  {
+    "slide": 1,
+    "text": "History-first revision · September 19, 2026",
+    "x": 0.64,
+    "y": 6.61,
+    "w": 10,
+    "h": 0.22,
+    "size": 12
+  },
+  {
+    "slide": 2,
+    "text": "I · HOME MECHANICAL VENTILATION",
+    "x": 0.64,
+    "y": 0.22,
+    "w": 9.6,
+    "h": 0.28,
+    "size": 12
+  },
+  {
+    "slide": 2,
+    "text": "Poliomyelitis and respiratory paralysis",
+    "x": 0.64,
+    "y": 0.66,
+    "w": 12.053333,
+    "h": 1.0,
+    "size": 33
+  },
+  {
+    "slide": 2,
+    "text": "Hind et al. 2017 [R05] · Wunsch 2023, excerpt [R07] · R08",
+    "x": 0.64,
+    "y": 7.045,
+    "w": 10.65,
+    "h": 0.27,
+    "size": 10.2
+  },
+  {
+    "slide": 2,
+    "text": "S02",
+    "x": 11.363332999999999,
+    "y": 7.045,
+    "w": 1.33,
+    "h": 0.25,
+    "size": 10.2
+  },
+  {
+    "slide": 2,
+    "text": "1920S–1950S",
+    "x": 0.64,
+    "y": 1.93,
+    "w": 5,
+    "h": 0.28,
+    "size": 16
+  },
+  {
+    "slide": 2,
+    "text": "Respiratory muscle paralysis",
+    "x": 1.02,
+    "y": 2.52,
+    "w": 4.87,
+    "h": 1.13,
+    "size": 24
+  },
+  {
+    "slide": 2,
+    "text": "Negative-pressure tank ventilation",
+    "x": 1.02,
+    "y": 3.69,
+    "w": 4.87,
+    "h": 1.13,
+    "size": 24
+  },
+  {
+    "slide": 2,
+    "text": "1952 Copenhagen: tracheotomy\nand prolonged positive-pressure\nsupport",
+    "x": 1.02,
+    "y": 4.859999999999999,
+    "w": 4.87,
+    "h": 1.13,
+    "size": 24
+  },
+  {
+    "slide": 2,
+    "text": "Illustrative iron lung. Date and location unspecified. Hind et al., 2017, Fig. 1.",
+    "x": 6.2,
+    "y": 6.58,
+    "w": 6.45,
+    "h": 0.24,
+    "size": 10
+  },
+  {
+    "slide": 2,
+    "text": "The Autumn Ghost · Hannah Wunsch, 2023",
+    "x": 0.64,
+    "y": 6.23,
+    "w": 5.45,
+    "h": 0.35,
+    "size": 16
+  },
+  {
+    "slide": 3,
+    "text": "I · HOME MECHANICAL VENTILATION",
+    "x": 0.64,
+    "y": 0.22,
+    "w": 9.6,
+    "h": 0.28,
+    "size": 12
+  },
+  {
+    "slide": 3,
+    "text": "Long-term ventilation outside hospital",
+    "x": 0.64,
+    "y": 0.66,
+    "w": 12.053333,
+    "h": 1.0,
+    "size": 33
+  },
+  {
+    "slide": 3,
+    "text": "King 2012 [R06] · March of Dimes [R09] · R05, R49",
+    "x": 0.64,
+    "y": 7.045,
+    "w": 10.65,
+    "h": 0.27,
+    "size": 10.2
+  },
+  {
+    "slide": 3,
+    "text": "S03",
+    "x": 11.363332999999999,
+    "y": 7.045,
+    "w": 1.33,
+    "h": 0.25,
+    "size": 10.2
+  },
+  {
+    "slide": 3,
+    "text": "Selected milestones · not to scale",
+    "x": 0.64,
+    "y": 1.79,
+    "w": 12.053333,
+    "h": 0.22,
+    "size": 11
+  },
+  {
+    "slide": 3,
+    "text": "1946",
+    "x": 0.64,
+    "y": 2.11,
+    "w": 2.84833325,
+    "h": 0.55,
+    "size": 25
+  },
+  {
+    "slide": 3,
+    "text": "March of Dimes",
+    "x": 0.64,
+    "y": 3.23,
+    "w": 2.79833325,
+    "h": 1.04,
+    "size": 24
+  },
+  {
+    "slide": 3,
+    "text": "Thousands of iron\nlungs funded and\ntransported",
+    "x": 0.64,
+    "y": 4.42,
+    "w": 2.76833325,
+    "h": 1.38,
+    "size": 22.5
+  },
+  {
+    "slide": 3,
+    "text": "1950s–1970s",
+    "x": 3.7083332500000004,
+    "y": 2.11,
+    "w": 2.84833325,
+    "h": 0.55,
+    "size": 25
+  },
+  {
+    "slide": 3,
+    "text": "Home support",
+    "x": 3.7083332500000004,
+    "y": 3.23,
+    "w": 2.79833325,
+    "h": 1.04,
+    "size": 24
+  },
+  {
+    "slide": 3,
+    "text": "Tank, cuirass, and\npositive-pressure\nsystems",
+    "x": 3.7083332500000004,
+    "y": 4.42,
+    "w": 2.76833325,
+    "h": 1.38,
+    "size": 22.5
+  },
+  {
+    "slide": 3,
+    "text": "1977",
+    "x": 6.7766665,
+    "y": 2.11,
+    "w": 2.84833325,
+    "h": 0.55,
+    "size": 25
+  },
+  {
+    "slide": 3,
+    "text": "Portable volume\nventilator",
+    "x": 6.7766665,
+    "y": 3.23,
+    "w": 2.79833325,
+    "h": 1.04,
+    "size": 24
+  },
+  {
+    "slide": 3,
+    "text": "LP3 approved for use\noutside hospital",
+    "x": 6.7766665,
+    "y": 4.42,
+    "w": 2.76833325,
+    "h": 1.38,
+    "size": 22.5
+  },
+  {
+    "slide": 3,
+    "text": "1981–1982",
+    "x": 9.844999750000001,
+    "y": 2.11,
+    "w": 2.84833325,
+    "h": 0.55,
+    "size": 25
+  },
+  {
+    "slide": 3,
+    "text": "Home-care\neligibility",
+    "x": 9.844999750000001,
+    "y": 3.23,
+    "w": 2.79833325,
+    "h": 1.04,
+    "size": 24
+  },
+  {
+    "slide": 3,
+    "text": "Katie Beckett case\nand the subsequent\nTEFRA option",
+    "x": 9.844999750000001,
+    "y": 4.42,
+    "w": 2.76833325,
+    "h": 1.38,
+    "size": 22.5
+  },
+  {
+    "slide": 3,
+    "text": "Equipment portability · trained caregivers · continuing support · financing",
+    "x": 0.81,
+    "y": 6.12,
+    "w": 11.713333,
+    "h": 0.55,
+    "size": 20
+  },
+  {
+    "slide": 4,
+    "text": "I · HOME MECHANICAL VENTILATION",
+    "x": 0.64,
+    "y": 0.22,
+    "w": 9.6,
+    "h": 0.28,
+    "size": 12
+  },
+  {
+    "slide": 4,
+    "text": "Home ventilators: design and payment context",
+    "x": 0.64,
+    "y": 0.66,
+    "w": 12.053333,
+    "h": 1.0,
+    "size": 33
+  },
+  {
+    "slide": 4,
+    "text": "King 2012 [R06] · Gusman & Wolfe 2025 [R10] · R13, R20, R41",
+    "x": 0.64,
+    "y": 7.045,
+    "w": 10.65,
+    "h": 0.27,
+    "size": 10.2
+  },
+  {
+    "slide": 4,
+    "text": "S04",
+    "x": 11.363332999999999,
+    "y": 7.045,
+    "w": 1.33,
+    "h": 0.25,
+    "size": 10.2
+  },
+  {
+    "slide": 4,
+    "text": "Clinical and engineering context",
+    "x": 0.86,
+    "y": 2.12,
+    "w": 5.4066665,
+    "h": 0.88,
+    "size": 26
+  },
+  {
+    "slide": 4,
+    "text": "Sustained ventilatory assistance",
+    "x": 0.86,
+    "y": 3.0,
+    "w": 5.4066665,
+    "h": 0.9133333333333333,
+    "size": 24
+  },
+  {
+    "slide": 4,
+    "text": "Some patients dependent on\nuninterrupted support",
+    "x": 0.86,
+    "y": 3.9433333333333334,
+    "w": 5.4066665,
+    "h": 0.9133333333333333,
+    "size": 24
+  },
+  {
+    "slide": 4,
+    "text": "Power, alarms, circuits, and servicing",
+    "x": 0.86,
+    "y": 4.886666666666667,
+    "w": 5.4066665,
+    "h": 0.9133333333333333,
+    "size": 24
+  },
+  {
+    "slide": 4,
+    "text": "Medicare equipment category",
+    "x": 7.0666665,
+    "y": 2.12,
+    "w": 5.4066665,
+    "h": 0.88,
+    "size": 26
+  },
+  {
+    "slide": 4,
+    "text": "Frequent and substantial servicing",
+    "x": 7.0666665,
+    "y": 3.0,
+    "w": 5.4066665,
+    "h": 0.9133333333333333,
+    "size": 24
+  },
+  {
+    "slide": 4,
+    "text": "Continuing rental while medically\nnecessary",
+    "x": 7.0666665,
+    "y": 3.9433333333333334,
+    "w": 5.4066665,
+    "h": 0.9133333333333333,
+    "size": 24
+  },
+  {
+    "slide": 4,
+    "text": "Equipment, supplies, maintenance,\nand repairs",
+    "x": 7.0666665,
+    "y": 4.886666666666667,
+    "w": 5.4066665,
+    "h": 0.9133333333333333,
+    "size": 24
+  },
+  {
+    "slide": 4,
+    "text": "The payment category concerns equipment servicing, not a guaranteed schedule of RT visits.",
+    "x": 0.81,
+    "y": 6.12,
+    "w": 11.713333,
+    "h": 0.55,
+    "size": 20
+  },
+  {
+    "slide": 5,
+    "text": "II · SLEEP APNEA AND PAP",
+    "x": 0.64,
+    "y": 0.22,
+    "w": 9.6,
+    "h": 0.28,
+    "size": 12
+  },
+  {
+    "slide": 5,
+    "text": "Sleep apnea: the original clinical problem",
+    "x": 0.64,
+    "y": 0.66,
+    "w": 12.053333,
+    "h": 1.0,
+    "size": 33
+  },
+  {
+    "slide": 5,
+    "text": "Sullivan et al. 1981 [R11] · Locke et al. 2024 [R01] · R44",
+    "x": 0.64,
+    "y": 7.045,
+    "w": 10.65,
+    "h": 0.27,
+    "size": 10.2
+  },
+  {
+    "slide": 5,
+    "text": "S05",
+    "x": 11.363332999999999,
+    "y": 7.045,
+    "w": 1.33,
+    "h": 0.25,
+    "size": 10.2
+  },
+  {
+    "slide": 5,
+    "text": "Recurrent upper-airway\nobstruction during sleep",
+    "x": 1.02,
+    "y": 2.12,
+    "w": 4.87,
+    "h": 1.0899999999999999,
+    "size": 25
+  },
+  {
+    "slide": 5,
+    "text": "Respiratory effort persists during\nobstructive apnea",
+    "x": 1.02,
+    "y": 3.25,
+    "w": 4.87,
+    "h": 1.0899999999999999,
+    "size": 25
+  },
+  {
+    "slide": 5,
+    "text": "Sleep fragmentation and\nintermittent hypoxemia",
+    "x": 1.02,
+    "y": 4.38,
+    "w": 4.87,
+    "h": 1.0899999999999999,
+    "size": 25
+  },
+  {
+    "slide": 5,
+    "text": "OBSTRUCTIVE APNEA",
+    "x": 8.54,
+    "y": 1.85,
+    "w": 2.27,
+    "h": 0.28,
+    "size": 12
+  },
+  {
+    "slide": 5,
+    "text": "Airflow",
+    "x": 6.7,
+    "y": 2.11,
+    "w": 1.63,
+    "h": 0.35,
+    "size": 19
+  },
+  {
+    "slide": 5,
+    "text": "Effort",
+    "x": 6.7,
+    "y": 3.51,
+    "w": 1.63,
+    "h": 0.35,
+    "size": 19
+  },
+  {
+    "slide": 5,
+    "text": "Airflow stops; effort continues.",
+    "x": 6.7,
+    "y": 5.06,
+    "w": 5.5,
+    "h": 0.8,
+    "size": 23
+  },
+  {
+    "slide": 5,
+    "text": "Conceptual tracings; not patient data.",
+    "x": 6.7,
+    "y": 5.68,
+    "w": 5.5,
+    "h": 0.25,
+    "size": 12
+  },
+  {
+    "slide": 5,
+    "text": "An airway-patency disorder, not necessarily daytime ventilatory failure.",
+    "x": 0.81,
+    "y": 6.12,
+    "w": 11.713333,
+    "h": 0.55,
+    "size": 22
+  },
+  {
+    "slide": 6,
+    "text": "II · SLEEP APNEA AND PAP",
+    "x": 0.64,
+    "y": 0.22,
+    "w": 9.6,
+    "h": 0.28,
+    "size": 12
+  },
+  {
+    "slide": 6,
+    "text": "Nasal CPAP, 1981",
+    "x": 0.64,
+    "y": 0.66,
+    "w": 12.053333,
+    "h": 1.0,
+    "size": 33
+  },
+  {
+    "slide": 6,
+    "text": "Sullivan et al. 1981 [R11] · Sullivan et al. 1984 [R45]",
+    "x": 0.64,
+    "y": 7.045,
+    "w": 10.65,
+    "h": 0.27,
+    "size": 10.2
+  },
+  {
+    "slide": 6,
+    "text": "S06",
+    "x": 11.363332999999999,
+    "y": 7.045,
+    "w": 1.33,
+    "h": 0.25,
+    "size": 10.2
+  },
+  {
+    "slide": 6,
+    "text": "5",
+    "x": 0.64,
+    "y": 1.95,
+    "w": 2.8,
+    "h": 0.79,
+    "size": 44
+  },
+  {
+    "slide": 6,
+    "text": "patients with severe\nOSA",
+    "x": 0.64,
+    "y": 2.82,
+    "w": 2.8,
+    "h": 0.78,
+    "size": 21
+  },
+  {
+    "slide": 6,
+    "text": "4.5–10",
+    "x": 3.64,
+    "y": 1.95,
+    "w": 2.8,
+    "h": 0.79,
+    "size": 44
+  },
+  {
+    "slide": 6,
+    "text": "cm H₂O in the original\nreport",
+    "x": 3.64,
+    "y": 2.82,
+    "w": 2.8,
+    "h": 0.78,
+    "size": 21
+  },
+  {
+    "slide": 6,
+    "text": "Sullivan et al. · Lancet 1981",
+    "x": 0.64,
+    "y": 3.64,
+    "w": 5.6,
+    "h": 0.3,
+    "size": 17
+  },
+  {
+    "slide": 6,
+    "text": "Continuous airway pressure",
+    "x": 7.0,
+    "y": 3.86,
+    "w": 5.25,
+    "h": 0.6,
+    "size": 23
+  },
+  {
+    "slide": 6,
+    "text": "Time",
+    "x": 11.55,
+    "y": 5.64,
+    "w": 0.8,
+    "h": 0.3,
+    "size": 15
+  },
+  {
+    "slide": 6,
+    "text": "No independent IPAP–EPAP difference",
+    "x": 7.0,
+    "y": 5.0,
+    "w": 5.25,
+    "h": 0.55,
+    "size": 19
+  },
+  {
+    "slide": 6,
+    "text": "Pneumatic splinting of the upper airway",
+    "x": 1.02,
+    "y": 4.140000000000001,
+    "w": 5.48,
+    "h": 0.58,
+    "size": 20
+  },
+  {
+    "slide": 6,
+    "text": "No separate inspiratory pressure-support level",
+    "x": 1.02,
+    "y": 4.760000000000001,
+    "w": 5.48,
+    "h": 0.58,
+    "size": 20
+  },
+  {
+    "slide": 6,
+    "text": "1984 report: 35 patients on home treatment\nfor 3–30 months",
+    "x": 1.02,
+    "y": 5.380000000000001,
+    "w": 5.48,
+    "h": 0.58,
+    "size": 20
+  },
+  {
+    "slide": 6,
+    "text": "A flow generator, nasal interface, and continuous positive pressure.",
+    "x": 0.81,
+    "y": 6.12,
+    "w": 11.713333,
+    "h": 0.55,
+    "size": 22
+  },
+  {
+    "slide": 7,
+    "text": "II · SLEEP APNEA AND PAP",
+    "x": 0.64,
+    "y": 0.22,
+    "w": 9.6,
+    "h": 0.28,
+    "size": 12
+  },
+  {
+    "slide": 7,
+    "text": "PAP: a sleep-apnea coverage pathway",
+    "x": 0.64,
+    "y": 0.66,
+    "w": 12.053333,
+    "h": 1.0,
+    "size": 33
+  },
+  {
+    "slide": 7,
+    "text": "CMS NCD 240.4 [R44] · CMS LCD L33718 [R18] · R39",
+    "x": 0.64,
+    "y": 7.045,
+    "w": 10.65,
+    "h": 0.27,
+    "size": 10.2
+  },
+  {
+    "slide": 7,
+    "text": "S07",
+    "x": 11.363332999999999,
+    "y": 7.045,
+    "w": 1.33,
+    "h": 0.25,
+    "size": 10.2
+  },
+  {
+    "slide": 7,
+    "text": "Selected milestones · not to scale",
+    "x": 0.64,
+    "y": 1.79,
+    "w": 12.053333,
+    "h": 0.22,
+    "size": 11
+  },
+  {
+    "slide": 7,
+    "text": "1987",
+    "x": 0.64,
+    "y": 2.11,
+    "w": 3.8711110000000004,
+    "h": 0.55,
+    "size": 28
+  },
+  {
+    "slide": 7,
+    "text": "Initial Medicare CPAP\ncoverage",
+    "x": 0.64,
+    "y": 3.23,
+    "w": 3.8211110000000006,
+    "h": 1.04,
+    "size": 26
+  },
+  {
+    "slide": 7,
+    "text": "Selected adults with\nmoderate or severe OSA",
+    "x": 0.64,
+    "y": 4.42,
+    "w": 3.7911110000000003,
+    "h": 1.38,
+    "size": 25
+  },
+  {
+    "slide": 7,
+    "text": "2002",
+    "x": 4.731111,
+    "y": 2.11,
+    "w": 3.8711110000000004,
+    "h": 0.55,
+    "size": 28
+  },
+  {
+    "slide": 7,
+    "text": "Expanded OSA coverage",
+    "x": 4.731111,
+    "y": 3.23,
+    "w": 3.8211110000000006,
+    "h": 1.04,
+    "size": 26
+  },
+  {
+    "slide": 7,
+    "text": "AHI-based criteria with\nqualifying symptoms or\ncomorbidity",
+    "x": 4.731111,
+    "y": 4.42,
+    "w": 3.7911110000000003,
+    "h": 1.38,
+    "size": 25
+  },
+  {
+    "slide": 7,
+    "text": "2008",
+    "x": 8.822222000000002,
+    "y": 2.11,
+    "w": 3.8711110000000004,
+    "h": 0.55,
+    "size": 28
+  },
+  {
+    "slide": 7,
+    "text": "Home sleep testing and\ntrial period",
+    "x": 8.822222000000002,
+    "y": 3.23,
+    "w": 3.8211110000000006,
+    "h": 1.04,
+    "size": 26
+  },
+  {
+    "slide": 7,
+    "text": "Specified home tests;\ninitial 12-week coverage",
+    "x": 8.822222000000002,
+    "y": 4.42,
+    "w": 3.7911110000000003,
+    "h": 1.38,
+    "size": 25
+  },
+  {
+    "slide": 7,
+    "text": "Current pathway: documented OSA, treatment benefit, and use; not daytime PaCO₂.",
+    "x": 0.81,
+    "y": 6.12,
+    "w": 11.713333,
+    "h": 0.55,
+    "size": 21
+  },
+  {
+    "slide": 8,
+    "text": "III · RESPIRATORY ASSIST DEVICES",
+    "x": 0.64,
+    "y": 0.22,
+    "w": 9.6,
+    "h": 0.28,
+    "size": 12
+  },
+  {
+    "slide": 8,
+    "text": "Bilevel positive airway pressure, 1990",
+    "x": 0.64,
+    "y": 0.66,
+    "w": 12.053333,
+    "h": 1.0,
+    "size": 33
+  },
+  {
+    "slide": 8,
+    "text": "Sanders & Kern 1990 [R12] · 71 FR 4518–4525 (2006) [R13] · R16",
+    "x": 0.64,
+    "y": 7.045,
+    "w": 10.65,
+    "h": 0.27,
+    "size": 10.2
+  },
+  {
+    "slide": 8,
+    "text": "S08",
+    "x": 11.363332999999999,
+    "y": 7.045,
+    "w": 1.33,
+    "h": 0.25,
+    "size": 10.2
+  },
+  {
+    "slide": 8,
+    "text": "Independent inspiratory and expiratory pressures",
+    "x": 0.64,
+    "y": 1.9,
+    "w": 8.2,
+    "h": 0.4,
+    "size": 25
+  },
+  {
+    "slide": 8,
+    "text": "PS = IPAP − EPAP",
+    "x": 8.4,
+    "y": 1.91,
+    "w": 4.2,
+    "h": 0.38,
+    "size": 23
+  },
+  {
+    "slide": 8,
+    "text": "BILEVEL S",
+    "x": 0.64,
+    "y": 2.47,
+    "w": 5.75,
+    "h": 0.28,
+    "size": 16
+  },
+  {
+    "slide": 8,
+    "text": "Pressure",
+    "x": 0.64,
+    "y": 2.87,
+    "w": 1.65,
+    "h": 0.28,
+    "size": 16
+  },
+  {
+    "slide": 8,
+    "text": "Effort",
+    "x": 0.64,
+    "y": 4.77,
+    "w": 1.65,
+    "h": 0.28,
+    "size": 16
+  },
+  {
+    "slide": 8,
+    "text": "IPAP",
+    "x": 0.92,
+    "y": 3.1,
+    "w": 0.65,
+    "h": 0.3,
+    "size": 14
+  },
+  {
+    "slide": 8,
+    "text": "EPAP",
+    "x": 0.92,
+    "y": 4.36,
+    "w": 0.65,
+    "h": 0.3,
+    "size": 14
+  },
+  {
+    "slide": 8,
+    "text": "No third trigger",
+    "x": 4.0600000000000005,
+    "y": 3.72,
+    "w": 2.1,
+    "h": 0.4,
+    "size": 17
+  },
+  {
+    "slide": 8,
+    "text": "BILEVEL S/T",
+    "x": 6.89,
+    "y": 2.47,
+    "w": 5.75,
+    "h": 0.28,
+    "size": 16
+  },
+  {
+    "slide": 8,
+    "text": "Pressure",
+    "x": 6.89,
+    "y": 2.87,
+    "w": 1.65,
+    "h": 0.28,
+    "size": 16
+  },
+  {
+    "slide": 8,
+    "text": "Effort",
+    "x": 6.89,
+    "y": 4.77,
+    "w": 1.65,
+    "h": 0.28,
+    "size": 16
+  },
+  {
+    "slide": 8,
+    "text": "IPAP",
+    "x": 7.17,
+    "y": 3.1,
+    "w": 0.65,
+    "h": 0.3,
+    "size": 14
+  },
+  {
+    "slide": 8,
+    "text": "EPAP",
+    "x": 7.17,
+    "y": 4.36,
+    "w": 0.65,
+    "h": 0.3,
+    "size": 14
+  },
+  {
+    "slide": 8,
+    "text": "Timed breath",
+    "x": 10.49,
+    "y": 2.88,
+    "w": 1.82,
+    "h": 0.3,
+    "size": 15
+  },
+  {
+    "slide": 8,
+    "text": "Schematic timing and amplitudes",
+    "x": 0.64,
+    "y": 5.76,
+    "w": 12.053333,
+    "h": 0.22,
+    "size": 12
+  },
+  {
+    "slide": 8,
+    "text": "Early bilevel technology arose in OSA; ventilatory-assistance applications expanded afterward.",
+    "x": 0.81,
+    "y": 6.12,
+    "w": 11.713333,
+    "h": 0.55,
+    "size": 20
+  },
+  {
+    "slide": 9,
+    "text": "III · RESPIRATORY ASSIST DEVICES",
+    "x": 0.64,
+    "y": 0.22,
+    "w": 9.6,
+    "h": 0.28,
+    "size": 12
+  },
+  {
+    "slide": 9,
+    "text": "NIV beyond upper-airway obstruction",
+    "x": 0.64,
+    "y": 0.66,
+    "w": 12.053333,
+    "h": 1.0,
+    "size": 33
+  },
+  {
+    "slide": 9,
+    "text": "Hind et al. 2017 [R05] · Locke et al. 2024 [R01] · R04, R03",
+    "x": 0.64,
+    "y": 7.045,
+    "w": 10.65,
+    "h": 0.27,
+    "size": 10.2
+  },
+  {
+    "slide": 9,
+    "text": "S09",
+    "x": 11.363332999999999,
+    "y": 7.045,
+    "w": 1.33,
+    "h": 0.25,
+    "size": 10.2
+  },
+  {
+    "slide": 9,
+    "text": "Neuromuscular\ndisease",
+    "x": 0.85,
+    "y": 2.2,
+    "w": 3.437777666666667,
+    "h": 0.8200000000000001,
+    "size": 26
+  },
+  {
+    "slide": 9,
+    "text": "Reduced respiratory\nmuscle capacity",
+    "x": 0.85,
+    "y": 3.1399999999999997,
+    "w": 3.437777666666667,
+    "h": 1.4300000000000002,
+    "size": 25
+  },
+  {
+    "slide": 9,
+    "text": "Chest-wall disorders",
+    "x": 4.947777666666666,
+    "y": 2.2,
+    "w": 3.437777666666667,
+    "h": 0.46,
+    "size": 26
+  },
+  {
+    "slide": 9,
+    "text": "Increased elastic load\nand restricted\nexpansion",
+    "x": 4.947777666666666,
+    "y": 2.78,
+    "w": 3.437777666666667,
+    "h": 1.7900000000000003,
+    "size": 25
+  },
+  {
+    "slide": 9,
+    "text": "COPD and obesity",
+    "x": 9.045555333333335,
+    "y": 2.2,
+    "w": 3.437777666666667,
+    "h": 0.46,
+    "size": 26
+  },
+  {
+    "slide": 9,
+    "text": "Mechanical loading,\nairway disease, and\ndrive",
+    "x": 9.045555333333335,
+    "y": 2.78,
+    "w": 3.437777666666667,
+    "h": 1.7900000000000003,
+    "size": 25
+  },
+  {
+    "slide": 9,
+    "text": "Increasing respiratory load",
+    "x": 0.64,
+    "y": 5.04,
+    "w": 5.8,
+    "h": 0.55,
+    "size": 26
+  },
+  {
+    "slide": 9,
+    "text": "Reduced capacity or drive",
+    "x": 7.12,
+    "y": 5.04,
+    "w": 5.45,
+    "h": 0.55,
+    "size": 26
+  },
+  {
+    "slide": 9,
+    "text": "Sleep-related hypoventilation can precede awake hypercapnia.",
+    "x": 0.81,
+    "y": 6.12,
+    "w": 11.713333,
+    "h": 0.55,
+    "size": 20
+  },
+  {
+    "slide": 10,
+    "text": "III · RESPIRATORY ASSIST DEVICES",
+    "x": 0.64,
+    "y": 0.22,
+    "w": 9.6,
+    "h": 0.28,
+    "size": 12
+  },
+  {
+    "slide": 10,
+    "text": "The equipment-servicing split, 1992–2006",
+    "x": 0.64,
+    "y": 0.66,
+    "w": 12.053333,
+    "h": 1.0,
+    "size": 33
+  },
+  {
+    "slide": 10,
+    "text": "71 FR 4518–4525 (2006) [R13] · CMS 2006 [R48]",
+    "x": 0.64,
+    "y": 7.045,
+    "w": 10.65,
+    "h": 0.27,
+    "size": 10.2
+  },
+  {
+    "slide": 10,
+    "text": "S10",
+    "x": 11.363332999999999,
+    "y": 7.045,
+    "w": 1.33,
+    "h": 0.25,
+    "size": 10.2
+  },
+  {
+    "slide": 10,
+    "text": "Selected milestones · not to scale",
+    "x": 0.64,
+    "y": 1.79,
+    "w": 12.053333,
+    "h": 0.22,
+    "size": 11
+  },
+  {
+    "slide": 10,
+    "text": "1992",
+    "x": 0.64,
+    "y": 2.11,
+    "w": 2.84833325,
+    "h": 0.55,
+    "size": 25
+  },
+  {
+    "slide": 10,
+    "text": "E0452",
+    "x": 0.64,
+    "y": 3.23,
+    "w": 2.79833325,
+    "h": 1.04,
+    "size": 24
+  },
+  {
+    "slide": 10,
+    "text": "Intermittent-assist\ndevice with CPAP\ncapability",
+    "x": 0.64,
+    "y": 4.42,
+    "w": 2.76833325,
+    "h": 1.38,
+    "size": 22.5
+  },
+  {
+    "slide": 10,
+    "text": "1993",
+    "x": 3.7083332500000004,
+    "y": 2.11,
+    "w": 2.84833325,
+    "h": 0.55,
+    "size": 25
+  },
+  {
+    "slide": 10,
+    "text": "Statutory exclusion",
+    "x": 3.7083332500000004,
+    "y": 3.23,
+    "w": 2.79833325,
+    "h": 1.04,
+    "size": 24
+  },
+  {
+    "slide": 10,
+    "text": "Intermittent-assist\ndevices excluded\nfrom frequent\nservicing",
+    "x": 3.7083332500000004,
+    "y": 4.42,
+    "w": 2.76833325,
+    "h": 1.38,
+    "size": 22.5
+  },
+  {
+    "slide": 10,
+    "text": "1999",
+    "x": 6.7766665,
+    "y": 2.11,
+    "w": 2.84833325,
+    "h": 0.55,
+    "size": 25
+  },
+  {
+    "slide": 10,
+    "text": "RAD nomenclature",
+    "x": 6.7766665,
+    "y": 3.23,
+    "w": 2.79833325,
+    "h": 1.04,
+    "size": 24
+  },
+  {
+    "slide": 10,
+    "text": "Separate\nbackup-rate and\ninterface codes",
+    "x": 6.7766665,
+    "y": 4.42,
+    "w": 2.76833325,
+    "h": 1.38,
+    "size": 22.5
+  },
+  {
+    "slide": 10,
+    "text": "2006",
+    "x": 9.844999750000001,
+    "y": 2.11,
+    "w": 2.84833325,
+    "h": 0.55,
+    "size": 25
+  },
+  {
+    "slide": 10,
+    "text": "Backup-rate RAD\npayment",
+    "x": 9.844999750000001,
+    "y": 3.23,
+    "w": 2.79833325,
+    "h": 1.04,
+    "size": 24
+  },
+  {
+    "slide": 10,
+    "text": "Capped rental\neffective April 1",
+    "x": 9.844999750000001,
+    "y": 4.42,
+    "w": 2.76833325,
+    "h": 1.38,
+    "size": 22.5
+  },
+  {
+    "slide": 10,
+    "text": "Manufacturer submission: part-day use, usually during sleep, with little routine maintenance.",
+    "x": 0.81,
+    "y": 6.12,
+    "w": 11.713333,
+    "h": 0.55,
+    "size": 20
+  },
+  {
+    "slide": 11,
+    "text": "III · RESPIRATORY ASSIST DEVICES",
+    "x": 0.64,
+    "y": 0.22,
+    "w": 9.6,
+    "h": 0.28,
+    "size": 12
+  },
+  {
+    "slide": 11,
+    "text": "Diagnosis-specific RAD coverage",
+    "x": 0.64,
+    "y": 0.66,
+    "w": 12.053333,
+    "h": 1.0,
+    "size": 33
+  },
+  {
+    "slide": 11,
+    "text": "71 FR 4518–4525 (2006) [R13] · ONMAP 2021 [R14] · R17",
+    "x": 0.64,
+    "y": 7.045,
+    "w": 10.65,
+    "h": 0.27,
+    "size": 10.2
+  },
+  {
+    "slide": 11,
+    "text": "S11",
+    "x": 11.363332999999999,
+    "y": 7.045,
+    "w": 1.33,
+    "h": 0.25,
+    "size": 10.2
+  },
+  {
+    "slide": 11,
+    "text": "Restrictive thoracic /\nneuromuscular disorders",
+    "x": 0.87,
+    "y": 2.24,
+    "w": 5.3966665,
+    "h": 1.03,
+    "size": 29
+  },
+  {
+    "slide": 11,
+    "text": "COPD-related\nrespiratory failure",
+    "x": 7.0666665,
+    "y": 2.24,
+    "w": 5.3966665,
+    "h": 1.03,
+    "size": 29
+  },
+  {
+    "slide": 11,
+    "text": "Central / complex\nsleep apnea",
+    "x": 0.87,
+    "y": 4.04,
+    "w": 5.3966665,
+    "h": 1.03,
+    "size": 29
+  },
+  {
+    "slide": 11,
+    "text": "Hypoventilation\nsyndromes",
+    "x": 7.0666665,
+    "y": 4.04,
+    "w": 5.3966665,
+    "h": 1.03,
+    "size": 29
+  },
+  {
+    "slide": 11,
+    "text": "Coverage policies developed around diagnoses, gas exchange, testing, and device features.",
+    "x": 0.81,
+    "y": 6.12,
+    "w": 11.713333,
+    "h": 0.55,
+    "size": 21
+  },
+  {
+    "slide": 12,
+    "text": "IV · CURRENT LANDSCAPE",
+    "x": 0.64,
+    "y": 0.22,
+    "w": 9.6,
+    "h": 0.28,
+    "size": 12
+  },
+  {
+    "slide": 12,
+    "text": "Overlapping modes, different platforms",
+    "x": 0.64,
+    "y": 0.66,
+    "w": 12.053333,
+    "h": 1.0,
+    "size": 33
+  },
+  {
+    "slide": 12,
+    "text": "CMS NCD 240.9 [R16] · CMS LCD L33800 [R17] · R18, R20",
+    "x": 0.64,
+    "y": 7.045,
+    "w": 10.65,
+    "h": 0.27,
+    "size": 10.2
+  },
+  {
+    "slide": 12,
+    "text": "S12",
+    "x": 11.363332999999999,
+    "y": 7.045,
+    "w": 1.33,
+    "h": 0.25,
+    "size": 10.2
+  },
+  {
+    "slide": 12,
+    "text": "Equipment",
+    "x": 0.78,
+    "y": 2.02,
+    "w": 3.55,
+    "h": 0.4,
+    "size": 21
+  },
+  {
+    "slide": 12,
+    "text": "Pressure / support",
+    "x": 4.609999999999999,
+    "y": 2.02,
+    "w": 5.64,
+    "h": 0.4,
+    "size": 21
+  },
+  {
+    "slide": 12,
+    "text": "Common code",
+    "x": 10.530000000000001,
+    "y": 2.02,
+    "w": 2.0233,
+    "h": 0.4,
+    "size": 21
+  },
+  {
+    "slide": 12,
+    "text": "CPAP / APAP",
+    "x": 0.78,
+    "y": 2.4819999999999998,
+    "w": 3.55,
+    "h": 0.6229999999999999,
+    "size": 24
+  },
+  {
+    "slide": 12,
+    "text": "Single-level airway pressure",
+    "x": 4.609999999999999,
+    "y": 2.4819999999999998,
+    "w": 5.64,
+    "h": 0.6229999999999999,
+    "size": 24
+  },
+  {
+    "slide": 12,
+    "text": "E0601",
+    "x": 10.530000000000001,
+    "y": 2.4819999999999998,
+    "w": 2.0233,
+    "h": 0.6229999999999999,
+    "size": 24
+  },
+  {
+    "slide": 12,
+    "text": "Bilevel RAD",
+    "x": 0.78,
+    "y": 3.15,
+    "w": 3.55,
+    "h": 0.6229999999999999,
+    "size": 24
+  },
+  {
+    "slide": 12,
+    "text": "IPAP and EPAP; no backup rate",
+    "x": 4.609999999999999,
+    "y": 3.15,
+    "w": 5.64,
+    "h": 0.6229999999999999,
+    "size": 24
+  },
+  {
+    "slide": 12,
+    "text": "E0470",
+    "x": 10.530000000000001,
+    "y": 3.15,
+    "w": 2.0233,
+    "h": 0.6229999999999999,
+    "size": 24
+  },
+  {
+    "slide": 12,
+    "text": "Backup-rate RAD",
+    "x": 0.78,
+    "y": 3.8179999999999996,
+    "w": 3.55,
+    "h": 0.6229999999999999,
+    "size": 24
+  },
+  {
+    "slide": 12,
+    "text": "Bilevel with timed support",
+    "x": 4.609999999999999,
+    "y": 3.8179999999999996,
+    "w": 5.64,
+    "h": 0.6229999999999999,
+    "size": 24
+  },
+  {
+    "slide": 12,
+    "text": "E0471",
+    "x": 10.530000000000001,
+    "y": 3.8179999999999996,
+    "w": 2.0233,
+    "h": 0.6229999999999999,
+    "size": 24
+  },
+  {
+    "slide": 12,
+    "text": "Noninvasive HMV",
+    "x": 0.78,
+    "y": 4.486,
+    "w": 3.55,
+    "h": 0.6229999999999999,
+    "size": 24
+  },
+  {
+    "slide": 12,
+    "text": "Ventilator-class platform",
+    "x": 4.609999999999999,
+    "y": 4.486,
+    "w": 5.64,
+    "h": 0.6229999999999999,
+    "size": 24
+  },
+  {
+    "slide": 12,
+    "text": "E0466",
+    "x": 10.530000000000001,
+    "y": 4.486,
+    "w": 2.0233,
+    "h": 0.6229999999999999,
+    "size": 24
+  },
+  {
+    "slide": 12,
+    "text": "Invasive HMV",
+    "x": 0.78,
+    "y": 5.154,
+    "w": 3.55,
+    "h": 0.6229999999999999,
+    "size": 24
+  },
+  {
+    "slide": 12,
+    "text": "Ventilator via invasive interface",
+    "x": 4.609999999999999,
+    "y": 5.154,
+    "w": 5.64,
+    "h": 0.6229999999999999,
+    "size": 24
+  },
+  {
+    "slide": 12,
+    "text": "E0465",
+    "x": 10.530000000000001,
+    "y": 5.154,
+    "w": 2.0233,
+    "h": 0.6229999999999999,
+    "size": 24
+  },
+  {
+    "slide": 12,
+    "text": "Mode availability overlaps; alarms, power, circuits, and control features remain model-specific.",
+    "x": 0.81,
+    "y": 6.12,
+    "w": 11.713333,
+    "h": 0.55,
+    "size": 20
+  },
+  {
+    "slide": 13,
+    "text": "IV · CURRENT LANDSCAPE",
+    "x": 0.64,
+    "y": 0.22,
+    "w": 9.6,
+    "h": 0.28,
+    "size": 12
+  },
+  {
+    "slide": 13,
+    "text": "Sleep-related and multifactorial hypoventilation",
+    "x": 0.64,
+    "y": 0.66,
+    "w": 12.053333,
+    "h": 1.0,
+    "size": 33
+  },
+  {
+    "slide": 13,
+    "text": "Locke et al. 2024 [R01] · Shah et al. 2023 [R04] · R02",
+    "x": 0.64,
+    "y": 7.045,
+    "w": 10.65,
+    "h": 0.27,
+    "size": 10.2
+  },
+  {
+    "slide": 13,
+    "text": "S13",
+    "x": 11.363332999999999,
+    "y": 7.045,
+    "w": 1.33,
+    "h": 0.25,
+    "size": 10.2
+  },
+  {
+    "slide": 13,
+    "text": "Reduced compensatory drive and\nmuscle contribution in sleep",
+    "x": 1.02,
+    "y": 2.1,
+    "w": 4.98,
+    "h": 1.1099999999999999,
+    "size": 24
+  },
+  {
+    "slide": 13,
+    "text": "CO₂ accumulation during\nobstructive events",
+    "x": 1.02,
+    "y": 3.25,
+    "w": 4.98,
+    "h": 1.1099999999999999,
+    "size": 24
+  },
+  {
+    "slide": 13,
+    "text": "Incomplete inter-event ventilation\nin susceptible patients",
+    "x": 1.02,
+    "y": 4.4,
+    "w": 4.98,
+    "h": 1.1099999999999999,
+    "size": 24
+  },
+  {
+    "slide": 13,
+    "text": "CO₂",
+    "x": 6.87,
+    "y": 1.94,
+    "w": 1,
+    "h": 0.35,
+    "size": 20
+  },
+  {
+    "slide": 13,
+    "text": "Sleep",
+    "x": 10.96,
+    "y": 5.59,
+    "w": 1,
+    "h": 0.3,
+    "size": 16
+  },
+  {
+    "slide": 13,
+    "text": "Accumulation with incomplete\ninter-event compensation",
+    "x": 7.35,
+    "y": 2.64,
+    "w": 4.33,
+    "h": 0.92,
+    "size": 23
+  },
+  {
+    "slide": 13,
+    "text": "Conceptual course; not patient data.",
+    "x": 6.9,
+    "y": 5.84,
+    "w": 5.3,
+    "h": 0.24,
+    "size": 12
+  },
+  {
+    "slide": 13,
+    "text": "Nocturnal impairment, daytime hypercapnia, and a single causal diagnosis are not equivalent.",
+    "x": 0.81,
+    "y": 6.12,
+    "w": 11.713333,
+    "h": 0.55,
+    "size": 20
+  },
+  {
+    "slide": 14,
+    "text": "IV · CURRENT LANDSCAPE",
+    "x": 0.64,
+    "y": 0.22,
+    "w": 9.6,
+    "h": 0.28,
+    "size": 12
+  },
+  {
+    "slide": 14,
+    "text": "Current uses: OSA, OHS, and central apnea",
+    "x": 0.64,
+    "y": 0.66,
+    "w": 12.053333,
+    "h": 1.0,
+    "size": 33
+  },
+  {
+    "slide": 14,
+    "text": "AASM PAP 2019 [R24] · ATS OHS 2019 [R25] · R33",
+    "x": 0.64,
+    "y": 7.045,
+    "w": 10.65,
+    "h": 0.27,
+    "size": 10.2
+  },
+  {
+    "slide": 14,
+    "text": "S14",
+    "x": 11.363332999999999,
+    "y": 7.045,
+    "w": 1.33,
+    "h": 0.25,
+    "size": 10.2
+  },
+  {
+    "slide": 14,
+    "text": "Clinical group",
+    "x": 0.78,
+    "y": 2.02,
+    "w": 5.29,
+    "h": 0.4,
+    "size": 21
+  },
+  {
+    "slide": 14,
+    "text": "Guideline-supported approach",
+    "x": 6.35,
+    "y": 2.02,
+    "w": 6.2033,
+    "h": 0.4,
+    "size": 21
+  },
+  {
+    "slide": 14,
+    "text": "Routine adult OSA",
+    "x": 0.78,
+    "y": 2.4819999999999998,
+    "w": 5.29,
+    "h": 0.7899999999999999,
+    "size": 25
+  },
+  {
+    "slide": 14,
+    "text": "CPAP or APAP",
+    "x": 6.35,
+    "y": 2.4819999999999998,
+    "w": 6.2033,
+    "h": 0.7899999999999999,
+    "size": 25
+  },
+  {
+    "slide": 14,
+    "text": "Stable OHS + severe OSA",
+    "x": 0.78,
+    "y": 3.3169999999999997,
+    "w": 5.29,
+    "h": 0.7899999999999999,
+    "size": 25
+  },
+  {
+    "slide": 14,
+    "text": "CPAP as initial therapy",
+    "x": 6.35,
+    "y": 3.3169999999999997,
+    "w": 6.2033,
+    "h": 0.7899999999999999,
+    "size": 25
+  },
+  {
+    "slide": 14,
+    "text": "Hospitalized respiratory failure\nwith suspected OHS",
+    "x": 0.78,
+    "y": 4.152,
+    "w": 5.29,
+    "h": 0.7899999999999999,
+    "size": 25
+  },
+  {
+    "slide": 14,
+    "text": "Discharge NIV pending evaluation",
+    "x": 6.35,
+    "y": 4.152,
+    "w": 6.2033,
+    "h": 0.7899999999999999,
+    "size": 25
+  },
+  {
+    "slide": 14,
+    "text": "Central sleep apnea",
+    "x": 0.78,
+    "y": 4.987,
+    "w": 5.29,
+    "h": 0.7899999999999999,
+    "size": 25
+  },
+  {
+    "slide": 14,
+    "text": "Etiology-specific CPAP,\nbackup-rate bilevel, or ASV",
+    "x": 6.35,
+    "y": 4.987,
+    "w": 6.2033,
+    "h": 0.7899999999999999,
+    "size": 25
+  },
+  {
+    "slide": 14,
+    "text": "These are clinical guideline statements, not automatic equipment coverage.",
+    "x": 0.81,
+    "y": 6.12,
+    "w": 11.713333,
+    "h": 0.55,
+    "size": 20
+  },
+  {
+    "slide": 15,
+    "text": "IV · CURRENT LANDSCAPE",
+    "x": 0.64,
+    "y": 0.22,
+    "w": 9.6,
+    "h": 0.28,
+    "size": 12
+  },
+  {
+    "slide": 15,
+    "text": "COPD: trial populations and outcomes",
+    "x": 0.64,
+    "y": 0.66,
+    "w": 12.053333,
+    "h": 1.0,
+    "size": 33
+  },
+  {
+    "slide": 15,
+    "text": "Köhnlein et al. 2014 [R30] · Struik et al. 2014 [R31] · R32, R26",
+    "x": 0.64,
+    "y": 7.045,
+    "w": 10.65,
+    "h": 0.27,
+    "size": 10.2
+  },
+  {
+    "slide": 15,
+    "text": "S15",
+    "x": 11.363332999999999,
+    "y": 7.045,
+    "w": 1.33,
+    "h": 0.25,
+    "size": 10.2
+  },
+  {
+    "slide": 15,
+    "text": "Trial",
+    "x": 0.78,
+    "y": 2.02,
+    "w": 2.5199999999999996,
+    "h": 0.4,
+    "size": 21
+  },
+  {
+    "slide": 15,
+    "text": "Population / timing",
+    "x": 3.58,
+    "y": 2.02,
+    "w": 4.42,
+    "h": 0.4,
+    "size": 21
+  },
+  {
+    "slide": 15,
+    "text": "Main result",
+    "x": 8.280000000000001,
+    "y": 2.02,
+    "w": 4.2733,
+    "h": 0.4,
+    "size": 21
+  },
+  {
+    "slide": 15,
+    "text": "Köhnlein 2014",
+    "x": 0.78,
+    "y": 2.4819999999999998,
+    "w": 2.5199999999999996,
+    "h": 1.0683333333333334,
+    "size": 24
+  },
+  {
+    "slide": 15,
+    "text": "Stable severe\nhypercapnic COPD",
+    "x": 3.58,
+    "y": 2.4819999999999998,
+    "w": 4.42,
+    "h": 1.0683333333333334,
+    "size": 24
+  },
+  {
+    "slide": 15,
+    "text": "1-year mortality\n12% vs 33%",
+    "x": 8.280000000000001,
+    "y": 2.4819999999999998,
+    "w": 4.2733,
+    "h": 1.0683333333333334,
+    "size": 24
+  },
+  {
+    "slide": 15,
+    "text": "RESCUE 2014",
+    "x": 0.78,
+    "y": 3.595333333333333,
+    "w": 2.5199999999999996,
+    "h": 1.0683333333333334,
+    "size": 24
+  },
+  {
+    "slide": 15,
+    "text": "Hypercapnia >48 h after\nacute support stopped",
+    "x": 3.58,
+    "y": 3.595333333333333,
+    "w": 4.42,
+    "h": 1.0683333333333334,
+    "size": 24
+  },
+  {
+    "slide": 15,
+    "text": "No primary readmission /\ndeath benefit",
+    "x": 8.280000000000001,
+    "y": 3.595333333333333,
+    "w": 4.2733,
+    "h": 1.0683333333333334,
+    "size": 24
+  },
+  {
+    "slide": 15,
+    "text": "HOT-HMV 2017",
+    "x": 0.78,
+    "y": 4.708666666666667,
+    "w": 2.5199999999999996,
+    "h": 1.0683333333333334,
+    "size": 24
+  },
+  {
+    "slide": 15,
+    "text": "Persistent hypercapnia\n2–4 weeks after acidosis",
+    "x": 3.58,
+    "y": 4.708666666666667,
+    "w": 4.42,
+    "h": 1.0683333333333334,
+    "size": 24
+  },
+  {
+    "slide": 15,
+    "text": "Readmission / death\nHR 0.49 (0.31–0.77)",
+    "x": 8.280000000000001,
+    "y": 4.708666666666667,
+    "w": 4.2733,
+    "h": 1.0683333333333334,
+    "size": 24
+  },
+  {
+    "slide": 15,
+    "text": "Treatment strategies and selected populations, not E0471-versus-E0466 comparisons.",
+    "x": 0.81,
+    "y": 6.12,
+    "w": 11.713333,
+    "h": 0.55,
+    "size": 20
+  },
+  {
+    "slide": 16,
+    "text": "IV · CURRENT LANDSCAPE",
+    "x": 0.64,
+    "y": 0.22,
+    "w": 9.6,
+    "h": 0.28,
+    "size": 12
+  },
+  {
+    "slide": 16,
+    "text": "Nocturnal and mixed-disease evidence",
+    "x": 0.64,
+    "y": 0.66,
+    "w": 12.053333,
+    "h": 1.0,
+    "size": 33
+  },
+  {
+    "slide": 16,
+    "text": "Ward et al. 2005 [R28] · Zheng et al. 2022 [R29] · R27, R02",
+    "x": 0.64,
+    "y": 7.045,
+    "w": 10.65,
+    "h": 0.27,
+    "size": 10.2
+  },
+  {
+    "slide": 16,
+    "text": "S16",
+    "x": 11.363332999999999,
+    "y": 7.045,
+    "w": 1.33,
+    "h": 0.25,
+    "size": 10.2
+  },
+  {
+    "slide": 16,
+    "text": "Ward 2005",
+    "x": 0.85,
+    "y": 2.15,
+    "w": 5.4366665,
+    "h": 0.47500000000000003,
+    "size": 29
+  },
+  {
+    "slide": 16,
+    "text": "26 randomized\nNMD / chest-wall disease\nNocturnal hypercapnia; normal\ndaytime CO₂",
+    "x": 0.85,
+    "y": 2.745,
+    "w": 5.4366665,
+    "h": 1.985,
+    "size": 23.5
+  },
+  {
+    "slide": 16,
+    "text": "Improved nocturnal gas exchange",
+    "x": 0.64,
+    "y": 5.2,
+    "w": 5.8566665,
+    "h": 0.71,
+    "size": 24
+  },
+  {
+    "slide": 16,
+    "text": "Zheng 2022",
+    "x": 7.0466665,
+    "y": 2.15,
+    "w": 5.4366665,
+    "h": 0.47500000000000003,
+    "size": 29
+  },
+  {
+    "slide": 16,
+    "text": "32 patients\nObesity + obstructive airways disease\nChronic hypercapnia",
+    "x": 7.0466665,
+    "y": 2.745,
+    "w": 5.4366665,
+    "h": 1.985,
+    "size": 23.5
+  },
+  {
+    "slide": 16,
+    "text": "Bilevel-S favored for 3-month CO₂",
+    "x": 6.8366665,
+    "y": 5.2,
+    "w": 5.8566665,
+    "h": 0.71,
+    "size": 24
+  },
+  {
+    "slide": 16,
+    "text": "Neither study establishes a universal treatment rule for isolated nocturnal or multifactorial\nhypoventilation.",
+    "x": 0.81,
+    "y": 6.12,
+    "w": 11.713333,
+    "h": 0.55,
+    "size": 19.5
+  },
+  {
+    "slide": 17,
+    "text": "IV · CURRENT LANDSCAPE",
+    "x": 0.64,
+    "y": 0.22,
+    "w": 9.6,
+    "h": 0.28,
+    "size": 12
+  },
+  {
+    "slide": 17,
+    "text": "Noninvasive ventilator claims, 2009–2015",
+    "x": 0.64,
+    "y": 0.66,
+    "w": 12.053333,
+    "h": 1.0,
+    "size": 33
+  },
+  {
+    "slide": 17,
+    "text": "HHS OIG, full report 2016 [R47]",
+    "x": 0.64,
+    "y": 7.045,
+    "w": 10.65,
+    "h": 0.27,
+    "size": 10.2
+  },
+  {
+    "slide": 17,
+    "text": "S17",
+    "x": 11.363332999999999,
+    "y": 7.045,
+    "w": 1.33,
+    "h": 0.25,
+    "size": 10.2
+  },
+  {
+    "slide": 17,
+    "text": "E0464 claims",
+    "x": 0.64,
+    "y": 1.88,
+    "w": 5.8,
+    "h": 0.42,
+    "size": 23
+  },
+  {
+    "slide": 17,
+    "text": "0",
+    "x": 0.64,
+    "y": 5.32,
+    "w": 0.58,
+    "h": 0.3,
+    "size": 13
+  },
+  {
+    "slide": 17,
+    "text": "100k",
+    "x": 0.64,
+    "y": 3.9288888888888893,
+    "w": 0.58,
+    "h": 0.3,
+    "size": 13
+  },
+  {
+    "slide": 17,
+    "text": "200k",
+    "x": 0.64,
+    "y": 2.5377777777777784,
+    "w": 0.58,
+    "h": 0.3,
+    "size": 13
+  },
+  {
+    "slide": 17,
+    "text": "2,528",
+    "x": 1.8299999999999998,
+    "y": 4.984832711111111,
+    "w": 1.86,
+    "h": 0.35,
+    "size": 23
+  },
+  {
+    "slide": 17,
+    "text": "2009",
+    "x": 1.9,
+    "y": 5.57,
+    "w": 1.65,
+    "h": 0.35,
+    "size": 23
+  },
+  {
+    "slide": 17,
+    "text": "215,379",
+    "x": 4.3,
+    "y": 2.0238388000000005,
+    "w": 1.86,
+    "h": 0.35,
+    "size": 23
+  },
+  {
+    "slide": 17,
+    "text": "2015",
+    "x": 4.369999999999999,
+    "y": 5.57,
+    "w": 1.65,
+    "h": 0.35,
+    "size": 23
+  },
+  {
+    "slide": 17,
+    "text": "85×",
+    "x": 8.1,
+    "y": 2.0,
+    "w": 4.35,
+    "h": 0.66,
+    "size": 36
+  },
+  {
+    "slide": 17,
+    "text": "E0464 claims",
+    "x": 8.1,
+    "y": 2.66,
+    "w": 4.3,
+    "h": 0.62,
+    "size": 19.5
+  },
+  {
+    "slide": 17,
+    "text": "$3.8M → $340M",
+    "x": 8.1,
+    "y": 3.25,
+    "w": 4.35,
+    "h": 0.66,
+    "size": 29
+  },
+  {
+    "slide": 17,
+    "text": "Medicare + beneficiary expenditures",
+    "x": 8.1,
+    "y": 3.91,
+    "w": 4.3,
+    "h": 0.62,
+    "size": 19.5
+  },
+  {
+    "slide": 17,
+    "text": "415 → 32,848",
+    "x": 8.1,
+    "y": 4.5,
+    "w": 4.35,
+    "h": 0.66,
+    "size": 29
+  },
+  {
+    "slide": 17,
+    "text": "Beneficiaries with claims",
+    "x": 8.1,
+    "y": 5.16,
+    "w": 4.3,
+    "h": 0.62,
+    "size": 19.5
+  },
+  {
+    "slide": 17,
+    "text": "Historical Medicare claims analysis. Claims, beneficiaries, and clinical overuse are different measures.",
+    "x": 0.81,
+    "y": 6.12,
+    "w": 11.713333,
+    "h": 0.55,
+    "size": 19.5
+  },
+  {
+    "slide": 18,
+    "text": "IV · CURRENT LANDSCAPE",
+    "x": 0.64,
+    "y": 0.22,
+    "w": 9.6,
+    "h": 0.28,
+    "size": 12
+  },
+  {
+    "slide": 18,
+    "text": "Access barriers and inappropriate billing",
+    "x": 0.64,
+    "y": 0.66,
+    "w": 12.053333,
+    "h": 1.0,
+    "size": 33
+  },
+  {
+    "slide": 18,
+    "text": "HHS OIG, full report 2016 [R47] · ONMAP 2021 [R14] · R10",
+    "x": 0.64,
+    "y": 7.045,
+    "w": 10.65,
+    "h": 0.27,
+    "size": 10.2
+  },
+  {
+    "slide": 18,
+    "text": "S18",
+    "x": 11.363332999999999,
+    "y": 7.045,
+    "w": 1.33,
+    "h": 0.25,
+    "size": 10.2
+  },
+  {
+    "slide": 18,
+    "text": "OIG findings, 2016",
+    "x": 0.86,
+    "y": 2.12,
+    "w": 5.4066665,
+    "h": 0.88,
+    "size": 26
+  },
+  {
+    "slide": 18,
+    "text": "$25M with indicators of inappropriate\nbilling",
+    "x": 0.86,
+    "y": 3.0,
+    "w": 5.4066665,
+    "h": 0.9133333333333333,
+    "size": 23
+  },
+  {
+    "slide": 18,
+    "text": "Examples: OSA treatment and\noverlapping device claims",
+    "x": 0.86,
+    "y": 3.9433333333333334,
+    "w": 5.4066665,
+    "h": 0.9133333333333333,
+    "size": 23
+  },
+  {
+    "slide": 18,
+    "text": "No population-wide clinical overuse\nrate",
+    "x": 0.86,
+    "y": 4.886666666666667,
+    "w": 5.4066665,
+    "h": 0.9133333333333333,
+    "size": 23
+  },
+  {
+    "slide": 18,
+    "text": "ONMAP account, 2021",
+    "x": 7.0666665,
+    "y": 2.12,
+    "w": 5.4066665,
+    "h": 0.88,
+    "size": 26
+  },
+  {
+    "slide": 18,
+    "text": "Detailed RAD qualification barriers",
+    "x": 7.0666665,
+    "y": 3.0,
+    "w": 5.4066665,
+    "h": 0.9133333333333333,
+    "size": 23
+  },
+  {
+    "slide": 18,
+    "text": "Reports of easier access to some\nventilators",
+    "x": 7.0666665,
+    "y": 3.9433333333333334,
+    "w": 5.4066665,
+    "h": 0.9133333333333333,
+    "size": 23
+  },
+  {
+    "slide": 18,
+    "text": "Concern about ongoing clinical support",
+    "x": 7.0666665,
+    "y": 4.886666666666667,
+    "w": 5.4066665,
+    "h": 0.9133333333333333,
+    "size": 23
+  },
+  {
+    "slide": 18,
+    "text": "Reported access barriers and billing concerns coexist; claims growth alone does not establish\ncausation.",
+    "x": 0.81,
+    "y": 6.12,
+    "w": 11.713333,
+    "h": 0.55,
+    "size": 20
+  },
+  {
+    "slide": 19,
+    "text": "IV · CURRENT LANDSCAPE",
+    "x": 0.64,
+    "y": 0.22,
+    "w": 9.6,
+    "h": 0.28,
+    "size": 12
+  },
+  {
+    "slide": 19,
+    "text": "Medicare coverage terminology",
+    "x": 0.64,
+    "y": 0.66,
+    "w": 12.053333,
+    "h": 1.0,
+    "size": 33
+  },
+  {
+    "slide": 19,
+    "text": "CMS coverage process [R40] · CMS A55426 [R19] · R16",
+    "x": 0.64,
+    "y": 7.045,
+    "w": 10.65,
+    "h": 0.27,
+    "size": 10.2
+  },
+  {
+    "slide": 19,
+    "text": "S19",
+    "x": 11.363332999999999,
+    "y": 7.045,
+    "w": 1.33,
+    "h": 0.25,
+    "size": 10.2
+  },
+  {
+    "slide": 19,
+    "text": "Term",
+    "x": 0.78,
+    "y": 2.02,
+    "w": 2.17,
+    "h": 0.4,
+    "size": 21
+  },
+  {
+    "slide": 19,
+    "text": "Role",
+    "x": 3.2300000000000004,
+    "y": 2.02,
+    "w": 9.323300000000001,
+    "h": 0.4,
+    "size": 21
+  },
+  {
+    "slide": 19,
+    "text": "CMS",
+    "x": 0.78,
+    "y": 2.4819999999999998,
+    "w": 2.17,
+    "h": 0.6229999999999999,
+    "size": 23.5
+  },
+  {
+    "slide": 19,
+    "text": "Centers for Medicare & Medicaid Services",
+    "x": 3.2300000000000004,
+    "y": 2.4819999999999998,
+    "w": 9.323300000000001,
+    "h": 0.6229999999999999,
+    "size": 23.5
+  },
+  {
+    "slide": 19,
+    "text": "NCD",
+    "x": 0.78,
+    "y": 3.15,
+    "w": 2.17,
+    "h": 0.6229999999999999,
+    "size": 23.5
+  },
+  {
+    "slide": 19,
+    "text": "National Coverage Determination: national coverage policy",
+    "x": 3.2300000000000004,
+    "y": 3.15,
+    "w": 9.323300000000001,
+    "h": 0.6229999999999999,
+    "size": 23.5
+  },
+  {
+    "slide": 19,
+    "text": "MAC / LCD",
+    "x": 0.78,
+    "y": 3.8179999999999996,
+    "w": 2.17,
+    "h": 0.6229999999999999,
+    "size": 23.5
+  },
+  {
+    "slide": 19,
+    "text": "Medicare contractor / contractor-level coverage policy",
+    "x": 3.2300000000000004,
+    "y": 3.8179999999999996,
+    "w": 9.323300000000001,
+    "h": 0.6229999999999999,
+    "size": 23.5
+  },
+  {
+    "slide": 19,
+    "text": "DME supplier",
+    "x": 0.78,
+    "y": 4.486,
+    "w": 2.17,
+    "h": 0.6229999999999999,
+    "size": 23.5
+  },
+  {
+    "slide": 19,
+    "text": "Company furnishing equipment and related services",
+    "x": 3.2300000000000004,
+    "y": 4.486,
+    "w": 9.323300000000001,
+    "h": 0.6229999999999999,
+    "size": 23.5
+  },
+  {
+    "slide": 19,
+    "text": "HCPCS",
+    "x": 0.78,
+    "y": 5.154,
+    "w": 2.17,
+    "h": 0.6229999999999999,
+    "size": 23.5
+  },
+  {
+    "slide": 19,
+    "text": "Equipment or service billing code",
+    "x": 3.2300000000000004,
+    "y": 5.154,
+    "w": 9.323300000000001,
+    "h": 0.6229999999999999,
+    "size": 23.5
+  },
+  {
+    "slide": 19,
+    "text": "A DME supplier provides equipment. A DME MAC administers Medicare claims.",
+    "x": 0.81,
+    "y": 6.12,
+    "w": 11.713333,
+    "h": 0.55,
+    "size": 20
+  },
+  {
+    "slide": 20,
+    "text": "IV · CURRENT LANDSCAPE",
+    "x": 0.64,
+    "y": 0.22,
+    "w": 9.6,
+    "h": 0.28,
+    "size": 12
+  },
+  {
+    "slide": 20,
+    "text": "COPD national coverage, 2025",
+    "x": 0.64,
+    "y": 0.66,
+    "w": 12.053333,
+    "h": 1.0,
+    "size": 33
+  },
+  {
+    "slide": 20,
+    "text": "CMS NCD 240.9 [R16] · CMS LCD L33800 [R17] · R41, R14",
+    "x": 0.64,
+    "y": 7.045,
+    "w": 10.65,
+    "h": 0.27,
+    "size": 10.2
+  },
+  {
+    "slide": 20,
+    "text": "S20",
+    "x": 11.363332999999999,
+    "y": 7.045,
+    "w": 1.33,
+    "h": 0.25,
+    "size": 10.2
+  },
+  {
+    "slide": 20,
+    "text": "240.9",
+    "x": 0.64,
+    "y": 2.1,
+    "w": 4.55,
+    "h": 1.5,
+    "size": 74
+  },
+  {
+    "slide": 20,
+    "text": "National Coverage\nDetermination",
+    "x": 0.64,
+    "y": 3.62,
+    "w": 4.65,
+    "h": 1.01,
+    "size": 29
+  },
+  {
+    "slide": 20,
+    "text": "Chronic respiratory failure\nconsequent to COPD",
+    "x": 0.64,
+    "y": 4.93,
+    "w": 4.8,
+    "h": 0.85,
+    "size": 24
+  },
+  {
+    "slide": 20,
+    "text": "Effective June 9, 2025",
+    "x": 6.8,
+    "y": 2.2199999999999998,
+    "w": 5.82,
+    "h": 0.85,
+    "size": 26
+  },
+  {
+    "slide": 20,
+    "text": "RAD and HMV criteria in one national\ndocument",
+    "x": 6.8,
+    "y": 3.11,
+    "w": 5.82,
+    "h": 0.85,
+    "size": 26
+  },
+  {
+    "slide": 20,
+    "text": "Separate standard and\nhospital-discharge routes",
+    "x": 6.8,
+    "y": 4.0,
+    "w": 5.82,
+    "h": 0.85,
+    "size": 26
+  },
+  {
+    "slide": 20,
+    "text": "Non-COPD pathways remain separate",
+    "x": 6.8,
+    "y": 4.89,
+    "w": 5.82,
+    "h": 0.85,
+    "size": 26
+  },
+  {
+    "slide": 20,
+    "text": "ONMAP recommendations, national coverage, and claims implementation are distinct documents.",
+    "x": 0.81,
+    "y": 6.12,
+    "w": 11.713333,
+    "h": 0.55,
+    "size": 20
+  },
+  {
+    "slide": 21,
+    "text": "IV · CURRENT LANDSCAPE",
+    "x": 0.64,
+    "y": 0.22,
+    "w": 9.6,
+    "h": 0.28,
+    "size": 12
+  },
+  {
+    "slide": 21,
+    "text": "NCD 240.9: RAD pathways",
+    "x": 0.64,
+    "y": 0.66,
+    "w": 12.053333,
+    "h": 1.0,
+    "size": 33
+  },
+  {
+    "slide": 21,
+    "text": "CMS NCD 240.9 [R16]",
+    "x": 0.64,
+    "y": 7.045,
+    "w": 10.65,
+    "h": 0.27,
+    "size": 10.2
+  },
+  {
+    "slide": 21,
+    "text": "S21",
+    "x": 11.363332999999999,
+    "y": 7.045,
+    "w": 1.33,
+    "h": 0.25,
+    "size": 10.2
+  },
+  {
+    "slide": 21,
+    "text": "Standard backup-rate route",
+    "x": 0.86,
+    "y": 2.12,
+    "w": 5.4066665,
+    "h": 0.88,
+    "size": 26
+  },
+  {
+    "slide": 21,
+    "text": "Awake arterial PaCO₂ ≥52 mmHg",
+    "x": 0.86,
+    "y": 3.0,
+    "w": 5.4066665,
+    "h": 0.9133333333333333,
+    "size": 24
+  },
+  {
+    "slide": 21,
+    "text": "Sleep apnea not the predominant\ncause",
+    "x": 0.86,
+    "y": 3.9433333333333334,
+    "w": 5.4066665,
+    "h": 0.9133333333333333,
+    "size": 24
+  },
+  {
+    "slide": 21,
+    "text": "Stable COPD or persistent hypercapnia\n≥2 weeks after hospitalization",
+    "x": 0.86,
+    "y": 4.886666666666667,
+    "w": 5.4066665,
+    "h": 0.9133333333333333,
+    "size": 24
+  },
+  {
+    "slide": 21,
+    "text": "Immediate discharge route",
+    "x": 7.0666665,
+    "y": 2.12,
+    "w": 5.4066665,
+    "h": 0.88,
+    "size": 26
+  },
+  {
+    "slide": 21,
+    "text": "Acute-on-chronic respiratory failure\ndue to COPD",
+    "x": 7.0666665,
+    "y": 3.0,
+    "w": 5.4066665,
+    "h": 0.9133333333333333,
+    "size": 24
+  },
+  {
+    "slide": 21,
+    "text": "RAD or ventilator required within\nprior 24 hours",
+    "x": 7.0666665,
+    "y": 3.9433333333333334,
+    "w": 5.4066665,
+    "h": 0.9133333333333333,
+    "size": 24
+  },
+  {
+    "slide": 21,
+    "text": "Clinician-assessed risk of rapid\ndeterioration",
+    "x": 7.0666665,
+    "y": 4.886666666666667,
+    "w": 5.4066665,
+    "h": 0.9133333333333333,
+    "size": 24
+  },
+  {
+    "slide": 21,
+    "text": "Selected entry criteria; detailed conditions in A03",
+    "x": 0.64,
+    "y": 1.76,
+    "w": 12.053333,
+    "h": 0.22,
+    "size": 11
+  },
+  {
+    "slide": 21,
+    "text": "Initial coverage: 6 months. Backup-rate therapy: IPAP ≥15 cm H₂O and rate ≥14/min by month 6.",
+    "x": 0.81,
+    "y": 6.12,
+    "w": 11.713333,
+    "h": 0.55,
+    "size": 20
+  },
+  {
+    "slide": 22,
+    "text": "IV · CURRENT LANDSCAPE",
+    "x": 0.64,
+    "y": 0.22,
+    "w": 9.6,
+    "h": 0.28,
+    "size": 12
+  },
+  {
+    "slide": 22,
+    "text": "NCD 240.9: HMV pathways",
+    "x": 0.64,
+    "y": 0.66,
+    "w": 12.053333,
+    "h": 1.0,
+    "size": 33
+  },
+  {
+    "slide": 22,
+    "text": "CMS NCD 240.9 [R16]",
+    "x": 0.64,
+    "y": 7.045,
+    "w": 10.65,
+    "h": 0.27,
+    "size": 10.2
+  },
+  {
+    "slide": 22,
+    "text": "S22",
+    "x": 11.363332999999999,
+    "y": 7.045,
+    "w": 1.33,
+    "h": 0.25,
+    "size": 10.2
+  },
+  {
+    "slide": 22,
+    "text": "Volume-targeted mode + awake PaCO₂ ≥52 mmHg + sleep apnea not predominant",
+    "x": 0.8300000000000001,
+    "y": 2.07,
+    "w": 11.673333,
+    "h": 0.55,
+    "size": 23
+  },
+  {
+    "slide": 22,
+    "text": "At least one additional characteristic",
+    "x": 0.64,
+    "y": 2.87,
+    "w": 12.053333,
+    "h": 0.38,
+    "size": 20
+  },
+  {
+    "slide": 22,
+    "text": "1",
+    "x": 0.64,
+    "y": 3.39,
+    "w": 0.5,
+    "h": 0.39,
+    "size": 24
+  },
+  {
+    "slide": 22,
+    "text": "FiO₂ ≥36% or oxygen ≥4 L/min nasally",
+    "x": 1.3599999999999999,
+    "y": 3.39,
+    "w": 11.333333,
+    "h": 0.51,
+    "size": 25
+  },
+  {
+    "slide": 22,
+    "text": "2",
+    "x": 0.64,
+    "y": 4.04,
+    "w": 0.5,
+    "h": 0.39,
+    "size": 24
+  },
+  {
+    "slide": 22,
+    "text": "Ventilatory support >8 hours/day",
+    "x": 1.3599999999999999,
+    "y": 4.04,
+    "w": 11.333333,
+    "h": 0.51,
+    "size": 25
+  },
+  {
+    "slide": 22,
+    "text": "3",
+    "x": 0.64,
+    "y": 4.69,
+    "w": 0.5,
+    "h": 0.39,
+    "size": 24
+  },
+  {
+    "slide": 22,
+    "text": "Alarm and battery need with life-threatening interruption risk",
+    "x": 1.3599999999999999,
+    "y": 4.69,
+    "w": 11.333333,
+    "h": 0.51,
+    "size": 25
+  },
+  {
+    "slide": 22,
+    "text": "4",
+    "x": 0.64,
+    "y": 5.34,
+    "w": 0.5,
+    "h": 0.39,
+    "size": 24
+  },
+  {
+    "slide": 22,
+    "text": "Expected RAD inadequacy because needs exceed its capabilities",
+    "x": 1.3599999999999999,
+    "y": 5.34,
+    "w": 11.333333,
+    "h": 0.51,
+    "size": 25
+  },
+  {
+    "slide": 22,
+    "text": "A separate discharge route requires recent ventilator use and needs beyond a RAD.",
+    "x": 0.81,
+    "y": 6.12,
+    "w": 11.713333,
+    "h": 0.55,
+    "size": 21
+  },
+  {
+    "slide": 23,
+    "text": "IV · CURRENT LANDSCAPE",
+    "x": 0.64,
+    "y": 0.22,
+    "w": 9.6,
+    "h": 0.28,
+    "size": 12
+  },
+  {
+    "slide": 23,
+    "text": "Continued coverage and documentation",
+    "x": 0.64,
+    "y": 0.66,
+    "w": 12.053333,
+    "h": 1.0,
+    "size": 33
+  },
+  {
+    "slide": 23,
+    "text": "CMS NCD 240.9 [R16] · CMS NCD 240.9 FAQ [R46] · R22",
+    "x": 0.64,
+    "y": 7.045,
+    "w": 10.65,
+    "h": 0.27,
+    "size": 10.2
+  },
+  {
+    "slide": 23,
+    "text": "S23",
+    "x": 11.363332999999999,
+    "y": 7.045,
+    "w": 1.33,
+    "h": 0.25,
+    "size": 10.2
+  },
+  {
+    "slide": 23,
+    "text": "Usage: ≥4 hours per 24 hours on ≥70% of days",
+    "x": 0.64,
+    "y": 5.09,
+    "w": 12.053333,
+    "h": 0.55,
+    "size": 29
+  },
+  {
+    "slide": 23,
+    "text": "At first evaluation: qualifying 30-day period. Later: each paid rental month.",
+    "x": 0.64,
+    "y": 5.69,
+    "w": 12.053333,
+    "h": 0.3,
+    "size": 17
+  },
+  {
+    "slide": 23,
+    "text": "COPD pathway",
+    "x": 0.78,
+    "y": 2.02,
+    "w": 2.9000000000000004,
+    "h": 0.4,
+    "size": 21
+  },
+  {
+    "slide": 23,
+    "text": "By 6 months",
+    "x": 3.9600000000000004,
+    "y": 2.02,
+    "w": 4.06,
+    "h": 0.4,
+    "size": 21
+  },
+  {
+    "slide": 23,
+    "text": "Months 7–12",
+    "x": 8.3,
+    "y": 2.02,
+    "w": 4.253299999999999,
+    "h": 0.4,
+    "size": 21
+  },
+  {
+    "slide": 23,
+    "text": "RAD",
+    "x": 0.78,
+    "y": 2.4819999999999998,
+    "w": 2.9000000000000004,
+    "h": 1.095,
+    "size": 25
+  },
+  {
+    "slide": 23,
+    "text": "Usage + one listed\nclinical outcome",
+    "x": 3.9600000000000004,
+    "y": 2.4819999999999998,
+    "w": 4.06,
+    "h": 1.095,
+    "size": 25
+  },
+  {
+    "slide": 23,
+    "text": "Usage in each\npaid rental month",
+    "x": 8.3,
+    "y": 2.4819999999999998,
+    "w": 4.253299999999999,
+    "h": 1.095,
+    "size": 25
+  },
+  {
+    "slide": 23,
+    "text": "HMV",
+    "x": 0.78,
+    "y": 3.6219999999999994,
+    "w": 2.9000000000000004,
+    "h": 1.095,
+    "size": 25
+  },
+  {
+    "slide": 23,
+    "text": "Usage criteria",
+    "x": 3.9600000000000004,
+    "y": 3.6219999999999994,
+    "w": 4.06,
+    "h": 1.095,
+    "size": 25
+  },
+  {
+    "slide": 23,
+    "text": "Usage in each\npaid rental month",
+    "x": 8.3,
+    "y": 3.6219999999999994,
+    "w": 4.253299999999999,
+    "h": 1.095,
+    "size": 25
+  },
+  {
+    "slide": 23,
+    "text": "Forthcoming October 28, 2026: E0466 / E0467 / E0468 face-to-face and prior written-order\nrequirements.",
+    "x": 0.81,
+    "y": 6.12,
+    "w": 11.713333,
+    "h": 0.55,
+    "size": 19
+  },
+  {
+    "slide": 24,
+    "text": "IV · CURRENT LANDSCAPE",
+    "x": 0.64,
+    "y": 0.22,
+    "w": 9.6,
+    "h": 0.28,
+    "size": 12
+  },
+  {
+    "slide": 24,
+    "text": "Non-COPD coverage remains diagnosis-specific",
+    "x": 0.64,
+    "y": 0.66,
+    "w": 12.053333,
+    "h": 1.0,
+    "size": 33
+  },
+  {
+    "slide": 24,
+    "text": "CMS LCD L33800 [R17] · CMS LCD L33718 [R18] · R41, R44",
+    "x": 0.64,
+    "y": 7.045,
+    "w": 10.65,
+    "h": 0.27,
+    "size": 10.2
+  },
+  {
+    "slide": 24,
+    "text": "S24",
+    "x": 11.363332999999999,
+    "y": 7.045,
+    "w": 1.33,
+    "h": 0.25,
+    "size": 10.2
+  },
+  {
+    "slide": 24,
+    "text": "Indication",
+    "x": 0.78,
+    "y": 2.02,
+    "w": 3.87,
+    "h": 0.4,
+    "size": 21
+  },
+  {
+    "slide": 24,
+    "text": "Principal policy",
+    "x": 4.93,
+    "y": 2.02,
+    "w": 2.8899999999999997,
+    "h": 0.4,
+    "size": 21
+  },
+  {
+    "slide": 24,
+    "text": "Distinctive requirement",
+    "x": 8.1,
+    "y": 2.02,
+    "w": 4.4533,
+    "h": 0.4,
+    "size": 21
+  },
+  {
+    "slide": 24,
+    "text": "OSA",
+    "x": 0.78,
+    "y": 2.4819999999999998,
+    "w": 3.87,
+    "h": 0.7899999999999999,
+    "size": 22.5
+  },
+  {
+    "slide": 24,
+    "text": "NCD 240.4 / L33718",
+    "x": 4.93,
+    "y": 2.4819999999999998,
+    "w": 2.8899999999999997,
+    "h": 0.7899999999999999,
+    "size": 22.5
+  },
+  {
+    "slide": 24,
+    "text": "Qualifying sleep study",
+    "x": 8.1,
+    "y": 2.4819999999999998,
+    "w": 4.4533,
+    "h": 0.7899999999999999,
+    "size": 22.5
+  },
+  {
+    "slide": 24,
+    "text": "NMD / thoracic restriction",
+    "x": 0.78,
+    "y": 3.3169999999999997,
+    "w": 3.87,
+    "h": 0.7899999999999999,
+    "size": 22.5
+  },
+  {
+    "slide": 24,
+    "text": "L33800 for RAD",
+    "x": 4.93,
+    "y": 3.3169999999999997,
+    "w": 2.8899999999999997,
+    "h": 0.7899999999999999,
+    "size": 22.5
+  },
+  {
+    "slide": 24,
+    "text": "Gas exchange OR NMD\nstrength / FVC criteria",
+    "x": 8.1,
+    "y": 3.3169999999999997,
+    "w": 4.4533,
+    "h": 0.7899999999999999,
+    "size": 22.5
+  },
+  {
+    "slide": 24,
+    "text": "Hypoventilation syndrome",
+    "x": 0.78,
+    "y": 4.152,
+    "w": 3.87,
+    "h": 0.7899999999999999,
+    "size": 22.5
+  },
+  {
+    "slide": 24,
+    "text": "L33800",
+    "x": 4.93,
+    "y": 4.152,
+    "w": 2.8899999999999997,
+    "h": 0.7899999999999999,
+    "size": 22.5
+  },
+  {
+    "slide": 24,
+    "text": "Awake PaCO₂ + spirometry\n+ additional findings",
+    "x": 8.1,
+    "y": 4.152,
+    "w": 4.4533,
+    "h": 0.7899999999999999,
+    "size": 22.5
+  },
+  {
+    "slide": 24,
+    "text": "CSA / complex apnea",
+    "x": 0.78,
+    "y": 4.987,
+    "w": 3.87,
+    "h": 0.7899999999999999,
+    "size": 22.5
+  },
+  {
+    "slide": 24,
+    "text": "L33800",
+    "x": 4.93,
+    "y": 4.987,
+    "w": 2.8899999999999997,
+    "h": 0.7899999999999999,
+    "size": 22.5
+  },
+  {
+    "slide": 24,
+    "text": "Attended PSG and\ntreatment response",
+    "x": 8.1,
+    "y": 4.987,
+    "w": 4.4533,
+    "h": 0.7899999999999999,
+    "size": 22.5
+  },
+  {
+    "slide": 24,
+    "text": "Ventilator use for NMD / thoracic restriction: NCD 280.1 and supporting justification.",
+    "x": 0.81,
+    "y": 6.12,
+    "w": 11.713333,
+    "h": 0.55,
+    "size": 20
+  },
+  {
+    "slide": 25,
+    "text": "IV · CURRENT LANDSCAPE",
+    "x": 0.64,
+    "y": 0.22,
+    "w": 9.6,
+    "h": 0.28,
+    "size": 12
+  },
+  {
+    "slide": 25,
+    "text": "DME supply and clinical follow-up",
+    "x": 0.64,
+    "y": 0.66,
+    "w": 12.053333,
+    "h": 1.0,
+    "size": 33
+  },
+  {
+    "slide": 25,
+    "text": "CMS A55426 [R19] · DME MAC coding guidance [R20] · R21, R02",
+    "x": 0.64,
+    "y": 7.045,
+    "w": 10.65,
+    "h": 0.27,
+    "size": 10.2
+  },
+  {
+    "slide": 25,
+    "text": "S25",
+    "x": 11.363332999999999,
+    "y": 7.045,
+    "w": 1.33,
+    "h": 0.25,
+    "size": 10.2
+  },
+  {
+    "slide": 25,
+    "text": "Order +\nrecords",
+    "x": 0.74,
+    "y": 2.1,
+    "w": 1.9946666000000002,
+    "h": 0.8,
+    "size": 24
+  },
+  {
+    "slide": 25,
+    "text": "Supplier\nreview",
+    "x": 3.2046666000000004,
+    "y": 2.1,
+    "w": 1.9946666000000002,
+    "h": 0.8,
+    "size": 24
+  },
+  {
+    "slide": 25,
+    "text": "Setup +\ntraining",
+    "x": 5.6693332,
+    "y": 2.1,
+    "w": 1.9946666000000002,
+    "h": 0.8,
+    "size": 24
+  },
+  {
+    "slide": 25,
+    "text": "Delivery\nrecord",
+    "x": 8.1339998,
+    "y": 2.1,
+    "w": 1.9946666000000002,
+    "h": 0.8,
+    "size": 24
+  },
+  {
+    "slide": 25,
+    "text": "Clinical\nfollow-up",
+    "x": 10.5986664,
+    "y": 2.1,
+    "w": 1.9946666000000002,
+    "h": 0.8,
+    "size": 24
+  },
+  {
+    "slide": 25,
+    "text": "Clinical team",
+    "x": 0.64,
+    "y": 3.55,
+    "w": 3.02,
+    "h": 0.5,
+    "size": 24
+  },
+  {
+    "slide": 25,
+    "text": "Diagnosis, treatment parameters, response, reassessment",
+    "x": 3.8400000000000003,
+    "y": 3.55,
+    "w": 8.853333,
+    "h": 0.61,
+    "size": 23.5
+  },
+  {
+    "slide": 25,
+    "text": "DME supplier",
+    "x": 0.64,
+    "y": 4.29,
+    "w": 3.02,
+    "h": 0.5,
+    "size": 24
+  },
+  {
+    "slide": 25,
+    "text": "Documentation intake, equipment, setup, servicing, billing",
+    "x": 3.8400000000000003,
+    "y": 4.29,
+    "w": 8.853333,
+    "h": 0.61,
+    "size": 23.5
+  },
+  {
+    "slide": 25,
+    "text": "Payer / contractor",
+    "x": 0.64,
+    "y": 5.029999999999999,
+    "w": 3.02,
+    "h": 0.5,
+    "size": 24
+  },
+  {
+    "slide": 25,
+    "text": "Coverage rules, claims adjudication, review",
+    "x": 3.8400000000000003,
+    "y": 5.029999999999999,
+    "w": 8.853333,
+    "h": 0.61,
+    "size": 23.5
+  },
+  {
+    "slide": 25,
+    "text": "Authorization, equipment delivery, and effective treatment are different events.",
+    "x": 0.81,
+    "y": 6.12,
+    "w": 11.713333,
+    "h": 0.55,
+    "size": 21
+  },
+  {
+    "slide": 26,
+    "text": "IV · CURRENT LANDSCAPE",
+    "x": 0.64,
+    "y": 0.22,
+    "w": 9.6,
+    "h": 0.28,
+    "size": 12
+  },
+  {
+    "slide": 26,
+    "text": "The contemporary landscape",
+    "x": 0.64,
+    "y": 0.66,
+    "w": 12.053333,
+    "h": 1.0,
+    "size": 33
+  },
+  {
+    "slide": 26,
+    "text": "Locke et al. 2024 [R01] · Locke & Brown 2023 [R02] · R16, R17, R18",
+    "x": 0.64,
+    "y": 7.045,
+    "w": 10.65,
+    "h": 0.27,
+    "size": 10.2
+  },
+  {
+    "slide": 26,
+    "text": "S26",
+    "x": 11.363332999999999,
+    "y": 7.045,
+    "w": 1.33,
+    "h": 0.25,
+    "size": 10.2
+  },
+  {
+    "slide": 26,
+    "text": "PAP pathway",
+    "x": 0.85,
+    "y": 2.2,
+    "w": 3.437777666666667,
+    "h": 0.46,
+    "size": 26
+  },
+  {
+    "slide": 26,
+    "text": "Sleep-apnea diagnosis\nAirway-patency\ntreatment",
+    "x": 0.85,
+    "y": 2.78,
+    "w": 3.437777666666667,
+    "h": 1.7900000000000003,
+    "size": 25
+  },
+  {
+    "slide": 26,
+    "text": "RAD pathway",
+    "x": 4.947777666666666,
+    "y": 2.2,
+    "w": 3.437777666666667,
+    "h": 0.46,
+    "size": 26
+  },
+  {
+    "slide": 26,
+    "text": "Bilevel assistance\nDiagnosis-specific\neligibility",
+    "x": 4.947777666666666,
+    "y": 2.78,
+    "w": 3.437777666666667,
+    "h": 1.7900000000000003,
+    "size": 25
+  },
+  {
+    "slide": 26,
+    "text": "HMV pathway",
+    "x": 9.045555333333335,
+    "y": 2.2,
+    "w": 3.437777666666667,
+    "h": 0.46,
+    "size": 26
+  },
+  {
+    "slide": 26,
+    "text": "Ventilator capabilities\nExtended support\nneeds",
+    "x": 9.045555333333335,
+    "y": 2.78,
+    "w": 3.437777666666667,
+    "h": 1.7900000000000003,
+    "size": 25
+  },
+  {
+    "slide": 26,
+    "text": "Shared modes and patient populations",
+    "x": 0.64,
+    "y": 5.01,
+    "w": 12.053333,
+    "h": 0.58,
+    "size": 30
+  },
+  {
+    "slide": 26,
+    "text": "Overlapping physiology and modes · distinct equipment and payment rules · incomplete evidence\nfor mixed disease",
+    "x": 0.81,
+    "y": 6.12,
+    "w": 11.713333,
+    "h": 0.55,
+    "size": 20
+  },
+  {
+    "slide": 27,
+    "text": "APPENDIX · HISTORY",
+    "x": 0.64,
+    "y": 0.22,
+    "w": 9.6,
+    "h": 0.28,
+    "size": 12
+  },
+  {
+    "slide": 27,
+    "text": "Historical chronology and source status",
+    "x": 0.64,
+    "y": 0.66,
+    "w": 12.053333,
+    "h": 1.0,
+    "size": 33
+  },
+  {
+    "slide": 27,
+    "text": "Hind et al. 2017 [R05] · King 2012 [R06] · R13, R44",
+    "x": 0.64,
+    "y": 7.045,
+    "w": 10.65,
+    "h": 0.27,
+    "size": 10.2
+  },
+  {
+    "slide": 27,
+    "text": "BACKUP · A01",
+    "x": 11.363332999999999,
+    "y": 7.045,
+    "w": 1.33,
+    "h": 0.25,
+    "size": 10.2
+  },
+  {
+    "slide": 27,
+    "text": "Milestone",
+    "x": 0.78,
+    "y": 1.99,
+    "w": 4.12,
+    "h": 0.4,
+    "size": 20
+  },
+  {
+    "slide": 27,
+    "text": "Source status",
+    "x": 5.18,
+    "y": 1.99,
+    "w": 7.373333,
+    "h": 0.4,
+    "size": 20
+  },
+  {
+    "slide": 27,
+    "text": "1952: Copenhagen polio\nepidemic",
+    "x": 0.78,
+    "y": 2.4519999999999995,
+    "w": 4.12,
+    "h": 0.6689999999999999,
+    "size": 22
+  },
+  {
+    "slide": 27,
+    "text": "Contemporary report; later historical reviews",
+    "x": 5.18,
+    "y": 2.4519999999999995,
+    "w": 7.373333,
+    "h": 0.6689999999999999,
+    "size": 22
+  },
+  {
+    "slide": 27,
+    "text": "1977: portable LP3",
+    "x": 0.78,
+    "y": 3.1659999999999995,
+    "w": 4.12,
+    "h": 0.6689999999999999,
+    "size": 22
+  },
+  {
+    "slide": 27,
+    "text": "King review; historical FDA reference",
+    "x": 5.18,
+    "y": 3.1659999999999995,
+    "w": 7.373333,
+    "h": 0.6689999999999999,
+    "size": 22
+  },
+  {
+    "slide": 27,
+    "text": "1981: nasal CPAP",
+    "x": 0.78,
+    "y": 3.8799999999999994,
+    "w": 4.12,
+    "h": 0.6689999999999999,
+    "size": 22
+  },
+  {
+    "slide": 27,
+    "text": "Primary clinical report",
+    "x": 5.18,
+    "y": 3.8799999999999994,
+    "w": 7.373333,
+    "h": 0.6689999999999999,
+    "size": 22
+  },
+  {
+    "slide": 27,
+    "text": "1993 / 2006: payment\nclassification",
+    "x": 0.78,
+    "y": 4.593999999999999,
+    "w": 4.12,
+    "h": 0.6689999999999999,
+    "size": 22
+  },
+  {
+    "slide": 27,
+    "text": "Statute described in contemporaneous final rule",
+    "x": 5.18,
+    "y": 4.593999999999999,
+    "w": 7.373333,
+    "h": 0.6689999999999999,
+    "size": 22
+  },
+  {
+    "slide": 27,
+    "text": "Early polio coverage intent",
+    "x": 0.78,
+    "y": 5.308,
+    "w": 4.12,
+    "h": 0.6689999999999999,
+    "size": 22
+  },
+  {
+    "slide": 27,
+    "text": "Uncited retrospective account in Gusman–Wolfe",
+    "x": 5.18,
+    "y": 5.308,
+    "w": 7.373333,
+    "h": 0.6689999999999999,
+    "size": 22
+  },
+  {
+    "slide": 27,
+    "text": "Technology history, coverage history, and proposed policy motives have different evidence bases.",
+    "x": 0.81,
+    "y": 6.12,
+    "w": 11.713333,
+    "h": 0.55,
+    "size": 19
+  },
+  {
+    "slide": 28,
+    "text": "APPENDIX · TECHNOLOGY",
+    "x": 0.64,
+    "y": 0.22,
+    "w": 9.6,
+    "h": 0.28,
+    "size": 12
+  },
+  {
+    "slide": 28,
+    "text": "Modes and control strategies",
+    "x": 0.64,
+    "y": 0.66,
+    "w": 12.053333,
+    "h": 1.0,
+    "size": 33
+  },
+  {
+    "slide": 28,
+    "text": "Locke et al. 2024 [R01] · CMS NCD 240.9 [R16] · R33",
+    "x": 0.64,
+    "y": 7.045,
+    "w": 10.65,
+    "h": 0.27,
+    "size": 10.2
+  },
+  {
+    "slide": 28,
+    "text": "BACKUP · A02",
+    "x": 11.363332999999999,
+    "y": 7.045,
+    "w": 1.33,
+    "h": 0.25,
+    "size": 10.2
+  },
+  {
+    "slide": 28,
+    "text": "Mode or strategy",
+    "x": 0.78,
+    "y": 1.99,
+    "w": 4.12,
+    "h": 0.4,
+    "size": 20
+  },
+  {
+    "slide": 28,
+    "text": "Defining feature",
+    "x": 5.18,
+    "y": 1.99,
+    "w": 7.373333,
+    "h": 0.4,
+    "size": 20
+  },
+  {
+    "slide": 28,
+    "text": "CPAP / APAP",
+    "x": 0.78,
+    "y": 2.4519999999999995,
+    "w": 4.12,
+    "h": 0.6689999999999999,
+    "size": 22
+  },
+  {
+    "slide": 28,
+    "text": "One pressure level at a time; APAP adjusts that level",
+    "x": 5.18,
+    "y": 2.4519999999999995,
+    "w": 7.373333,
+    "h": 0.6689999999999999,
+    "size": 22
+  },
+  {
+    "slide": 28,
+    "text": "Bilevel S",
+    "x": 0.78,
+    "y": 3.1659999999999995,
+    "w": 4.12,
+    "h": 0.6689999999999999,
+    "size": 22
+  },
+  {
+    "slide": 28,
+    "text": "Patient-triggered inspiratory assistance",
+    "x": 5.18,
+    "y": 3.1659999999999995,
+    "w": 7.373333,
+    "h": 0.6689999999999999,
+    "size": 22
+  },
+  {
+    "slide": 28,
+    "text": "Bilevel S/T",
+    "x": 0.78,
+    "y": 3.8799999999999994,
+    "w": 4.12,
+    "h": 0.6689999999999999,
+    "size": 22
+  },
+  {
+    "slide": 28,
+    "text": "Spontaneous breaths plus timed backup",
+    "x": 5.18,
+    "y": 3.8799999999999994,
+    "w": 7.373333,
+    "h": 0.6689999999999999,
+    "size": 22
+  },
+  {
+    "slide": 28,
+    "text": "Volume-assured pressure\nsupport",
+    "x": 0.78,
+    "y": 4.593999999999999,
+    "w": 4.12,
+    "h": 0.6689999999999999,
+    "size": 22
+  },
+  {
+    "slide": 28,
+    "text": "Pressure support adjusts toward a ventilation target",
+    "x": 5.18,
+    "y": 4.593999999999999,
+    "w": 7.373333,
+    "h": 0.6689999999999999,
+    "size": 22
+  },
+  {
+    "slide": 28,
+    "text": "Adaptive servo-ventilation",
+    "x": 0.78,
+    "y": 5.308,
+    "w": 4.12,
+    "h": 0.6689999999999999,
+    "size": 22
+  },
+  {
+    "slide": 28,
+    "text": "Dynamic support for selected central breathing instability",
+    "x": 5.18,
+    "y": 5.308,
+    "w": 7.373333,
+    "h": 0.6689999999999999,
+    "size": 22
+  },
+  {
+    "slide": 28,
+    "text": "Mode names do not establish platform capabilities or a payer category.",
+    "x": 0.81,
+    "y": 6.12,
+    "w": 11.713333,
+    "h": 0.55,
+    "size": 19
+  },
+  {
+    "slide": 29,
+    "text": "APPENDIX · NCD 240.9",
+    "x": 0.64,
+    "y": 0.22,
+    "w": 9.6,
+    "h": 0.28,
+    "size": 12
+  },
+  {
+    "slide": 29,
+    "text": "COPD RAD: initial coverage detail",
+    "x": 0.64,
+    "y": 0.66,
+    "w": 12.053333,
+    "h": 1.0,
+    "size": 33
+  },
+  {
+    "slide": 29,
+    "text": "CMS NCD 240.9 [R16] · CMS NCD 240.9 FAQ [R46]",
+    "x": 0.64,
+    "y": 7.045,
+    "w": 10.65,
+    "h": 0.27,
+    "size": 10.2
+  },
+  {
+    "slide": 29,
+    "text": "BACKUP · A03",
+    "x": 11.363332999999999,
+    "y": 7.045,
+    "w": 1.33,
+    "h": 0.25,
+    "size": 10.2
+  },
+  {
+    "slide": 29,
+    "text": "Standard initiation",
+    "x": 0.86,
+    "y": 2.12,
+    "w": 5.4066665,
+    "h": 0.88,
+    "size": 26
+  },
+  {
+    "slide": 29,
+    "text": "Awake PaCO₂ ≥52 mmHg, prescribed FiO₂",
+    "x": 0.86,
+    "y": 3.0,
+    "w": 5.4066665,
+    "h": 0.6775,
+    "size": 21.5
+  },
+  {
+    "slide": 29,
+    "text": "Sleep apnea not predominant",
+    "x": 0.86,
+    "y": 3.7075,
+    "w": 5.4066665,
+    "h": 0.6775,
+    "size": 21.5
+  },
+  {
+    "slide": 29,
+    "text": "Backup RAD: stability or persistent\npost-exacerbation hypercapnia",
+    "x": 0.86,
+    "y": 4.415,
+    "w": 5.4066665,
+    "h": 0.6775,
+    "size": 21.5
+  },
+  {
+    "slide": 29,
+    "text": "No-backup RAD: intolerance or medical\ninappropriateness",
+    "x": 0.86,
+    "y": 5.1225000000000005,
+    "w": 5.4066665,
+    "h": 0.6775,
+    "size": 21.5
+  },
+  {
+    "slide": 29,
+    "text": "Immediate discharge",
+    "x": 7.0666665,
+    "y": 2.12,
+    "w": 5.4066665,
+    "h": 0.88,
+    "size": 26
+  },
+  {
+    "slide": 29,
+    "text": "Acute-on-chronic respiratory failure due to\nCOPD",
+    "x": 7.0666665,
+    "y": 3.0,
+    "w": 5.4066665,
+    "h": 0.6775,
+    "size": 21.5
+  },
+  {
+    "slide": 29,
+    "text": "RAD or ventilator needed within prior 24\nhours",
+    "x": 7.0666665,
+    "y": 3.7075,
+    "w": 5.4066665,
+    "h": 0.6775,
+    "size": 21.5
+  },
+  {
+    "slide": 29,
+    "text": "Clinician-assessed risk after discharge",
+    "x": 7.0666665,
+    "y": 4.415,
+    "w": 5.4066665,
+    "h": 0.6775,
+    "size": 21.5
+  },
+  {
+    "slide": 29,
+    "text": "Separate 6-month initial coverage route",
+    "x": 7.0666665,
+    "y": 5.1225000000000005,
+    "w": 5.4066665,
+    "h": 0.6775,
+    "size": 21.5
+  },
+  {
+    "slide": 29,
+    "text": "Backup-rate high-intensity minimum by 6 months: IPAP ≥15 cm H₂O and rate ≥14/min.",
+    "x": 0.81,
+    "y": 6.12,
+    "w": 11.713333,
+    "h": 0.55,
+    "size": 19
+  },
+  {
+    "slide": 30,
+    "text": "APPENDIX · NCD 240.9",
+    "x": 0.64,
+    "y": 0.22,
+    "w": 9.6,
+    "h": 0.28,
+    "size": 12
+  },
+  {
+    "slide": 30,
+    "text": "COPD HMV: initial coverage detail",
+    "x": 0.64,
+    "y": 0.66,
+    "w": 12.053333,
+    "h": 1.0,
+    "size": 33
+  },
+  {
+    "slide": 30,
+    "text": "CMS NCD 240.9 [R16] · DME MAC coding guidance [R20]",
+    "x": 0.64,
+    "y": 7.045,
+    "w": 10.65,
+    "h": 0.27,
+    "size": 10.2
+  },
+  {
+    "slide": 30,
+    "text": "BACKUP · A04",
+    "x": 11.363332999999999,
+    "y": 7.045,
+    "w": 1.33,
+    "h": 0.25,
+    "size": 10.2
+  },
+  {
+    "slide": 30,
+    "text": "Standard route",
+    "x": 0.86,
+    "y": 2.12,
+    "w": 5.4066665,
+    "h": 0.88,
+    "size": 26
+  },
+  {
+    "slide": 30,
+    "text": "Volume-targeted mode",
+    "x": 0.86,
+    "y": 3.0,
+    "w": 5.4066665,
+    "h": 0.6775,
+    "size": 21.5
+  },
+  {
+    "slide": 30,
+    "text": "Awake PaCO₂ ≥52; sleep apnea not\npredominant",
+    "x": 0.86,
+    "y": 3.7075,
+    "w": 5.4066665,
+    "h": 0.6775,
+    "size": 21.5
+  },
+  {
+    "slide": 30,
+    "text": "At least one additional need",
+    "x": 0.86,
+    "y": 4.415,
+    "w": 5.4066665,
+    "h": 0.6775,
+    "size": 21.5
+  },
+  {
+    "slide": 30,
+    "text": "Oxygen, duration, safety, or RAD-capability\ncriterion",
+    "x": 0.86,
+    "y": 5.1225000000000005,
+    "w": 5.4066665,
+    "h": 0.6775,
+    "size": 21.5
+  },
+  {
+    "slide": 30,
+    "text": "Discharge route",
+    "x": 7.0666665,
+    "y": 2.12,
+    "w": 5.4066665,
+    "h": 0.88,
+    "size": 26
+  },
+  {
+    "slide": 30,
+    "text": "Acute-on-chronic COPD respiratory failure",
+    "x": 7.0666665,
+    "y": 3.0,
+    "w": 5.4066665,
+    "h": 0.6775,
+    "size": 21.5
+  },
+  {
+    "slide": 30,
+    "text": "Needs exceeded RAD capability",
+    "x": 7.0666665,
+    "y": 3.7075,
+    "w": 5.4066665,
+    "h": 0.6775,
+    "size": 21.5
+  },
+  {
+    "slide": 30,
+    "text": "Ventilator required within prior 24 hours",
+    "x": 7.0666665,
+    "y": 4.415,
+    "w": 5.4066665,
+    "h": 0.6775,
+    "size": 21.5
+  },
+  {
+    "slide": 30,
+    "text": "Clinician-assessed risk after discharge",
+    "x": 7.0666665,
+    "y": 5.1225000000000005,
+    "w": 5.4066665,
+    "h": 0.6775,
+    "size": 21.5
+  },
+  {
+    "slide": 30,
+    "text": "Standard and discharge pathways have different entry wording; both specify volume-targeted HMV.",
+    "x": 0.81,
+    "y": 6.12,
+    "w": 11.713333,
+    "h": 0.55,
+    "size": 19
+  },
+  {
+    "slide": 31,
+    "text": "APPENDIX · COVERAGE",
+    "x": 0.64,
+    "y": 0.22,
+    "w": 9.6,
+    "h": 0.28,
+    "size": 12
+  },
+  {
+    "slide": 31,
+    "text": "Continuing coverage: three different clocks",
+    "x": 0.64,
+    "y": 0.66,
+    "w": 12.053333,
+    "h": 1.0,
+    "size": 33
+  },
+  {
+    "slide": 31,
+    "text": "CMS NCD 240.9 [R16] · CMS LCD L33800 [R17] · R18",
+    "x": 0.64,
+    "y": 7.045,
+    "w": 10.65,
+    "h": 0.27,
+    "size": 10.2
+  },
+  {
+    "slide": 31,
+    "text": "BACKUP · A05",
+    "x": 11.363332999999999,
+    "y": 7.045,
+    "w": 1.33,
+    "h": 0.25,
+    "size": 10.2
+  },
+  {
+    "slide": 31,
+    "text": "Pathway",
+    "x": 0.78,
+    "y": 1.99,
+    "w": 4.12,
+    "h": 0.4,
+    "size": 20
+  },
+  {
+    "slide": 31,
+    "text": "Evaluation and use requirements",
+    "x": 5.18,
+    "y": 1.99,
+    "w": 7.373333,
+    "h": 0.4,
+    "size": 20
+  },
+  {
+    "slide": 31,
+    "text": "OSA PAP",
+    "x": 0.78,
+    "y": 2.4519999999999995,
+    "w": 4.12,
+    "h": 0.6689999999999999,
+    "size": 22
+  },
+  {
+    "slide": 31,
+    "text": "Day 31–91 reassessment; ≥4 h on ≥70% of nights in a\n30-day period",
+    "x": 5.18,
+    "y": 2.4519999999999995,
+    "w": 7.373333,
+    "h": 0.6689999999999999,
+    "size": 22
+  },
+  {
+    "slide": 31,
+    "text": "Non-COPD RAD",
+    "x": 0.78,
+    "y": 3.1659999999999995,
+    "w": 4.12,
+    "h": 0.6689999999999999,
+    "size": 22
+  },
+  {
+    "slide": 31,
+    "text": "Reevaluation no sooner than day 61; benefit and average\n≥4 h/day",
+    "x": 5.18,
+    "y": 3.1659999999999995,
+    "w": 7.373333,
+    "h": 0.6689999999999999,
+    "size": 22
+  },
+  {
+    "slide": 31,
+    "text": "COPD RAD",
+    "x": 0.78,
+    "y": 3.8799999999999994,
+    "w": 4.12,
+    "h": 0.6689999999999999,
+    "size": 22
+  },
+  {
+    "slide": 31,
+    "text": "By 6 months: use threshold plus ≥1 CO₂ or symptom\noutcome",
+    "x": 5.18,
+    "y": 3.8799999999999994,
+    "w": 7.373333,
+    "h": 0.6689999999999999,
+    "size": 22
+  },
+  {
+    "slide": 31,
+    "text": "COPD HMV",
+    "x": 0.78,
+    "y": 4.593999999999999,
+    "w": 4.12,
+    "h": 0.6689999999999999,
+    "size": 22
+  },
+  {
+    "slide": 31,
+    "text": "By 6 months: use threshold; no parallel outcome list",
+    "x": 5.18,
+    "y": 4.593999999999999,
+    "w": 7.373333,
+    "h": 0.6689999999999999,
+    "size": 22
+  },
+  {
+    "slide": 31,
+    "text": "COPD RAD / HMV",
+    "x": 0.78,
+    "y": 5.308,
+    "w": 4.12,
+    "h": 0.6689999999999999,
+    "size": 22
+  },
+  {
+    "slide": 31,
+    "text": "Months 7–12 and later: monthly continuing-use\nrequirements",
+    "x": 5.18,
+    "y": 5.308,
+    "w": 7.373333,
+    "h": 0.6689999999999999,
+    "size": 22
+  },
+  {
+    "slide": 31,
+    "text": "The familiar OSA adherence window is not a universal rule for every home-ventilation pathway.",
+    "x": 0.81,
+    "y": 6.12,
+    "w": 11.713333,
+    "h": 0.55,
+    "size": 19
+  },
+  {
+    "slide": 32,
+    "text": "APPENDIX · NCD 240.4 / LCD L33718",
+    "x": 0.64,
+    "y": 0.22,
+    "w": 9.6,
+    "h": 0.28,
+    "size": 12
+  },
+  {
+    "slide": 32,
+    "text": "OSA PAP: diagnostic and coverage details",
+    "x": 0.64,
+    "y": 0.66,
+    "w": 12.053333,
+    "h": 1.0,
+    "size": 33
+  },
+  {
+    "slide": 32,
+    "text": "CMS NCD 240.4 [R44] · CMS LCD L33718 [R18] · R24",
+    "x": 0.64,
+    "y": 7.045,
+    "w": 10.65,
+    "h": 0.27,
+    "size": 10.2
+  },
+  {
+    "slide": 32,
+    "text": "BACKUP · A06",
+    "x": 11.363332999999999,
+    "y": 7.045,
+    "w": 1.33,
+    "h": 0.25,
+    "size": 10.2
+  },
+  {
+    "slide": 32,
+    "text": "Initial evidence",
+    "x": 0.86,
+    "y": 2.12,
+    "w": 5.4066665,
+    "h": 0.88,
+    "size": 26
+  },
+  {
+    "slide": 32,
+    "text": "Clinical evaluation and qualifying sleep test",
+    "x": 0.86,
+    "y": 3.0,
+    "w": 5.4066665,
+    "h": 0.6775,
+    "size": 21.5
+  },
+  {
+    "slide": 32,
+    "text": "AHI/RDI ≥15, or 5–14 with specified\nfindings",
+    "x": 0.86,
+    "y": 3.7075,
+    "w": 5.4066665,
+    "h": 0.6775,
+    "size": 21.5
+  },
+  {
+    "slide": 32,
+    "text": "Medicare hypopnea definition: ≥4%\ndesaturation",
+    "x": 0.86,
+    "y": 4.415,
+    "w": 5.4066665,
+    "h": 0.6775,
+    "size": 21.5
+  },
+  {
+    "slide": 32,
+    "text": "Initial national coverage period: 12 weeks",
+    "x": 0.86,
+    "y": 5.1225000000000005,
+    "w": 5.4066665,
+    "h": 0.6775,
+    "size": 21.5
+  },
+  {
+    "slide": 32,
+    "text": "Device and continuation",
+    "x": 7.0666665,
+    "y": 2.12,
+    "w": 5.4066665,
+    "h": 0.88,
+    "size": 26
+  },
+  {
+    "slide": 32,
+    "text": "E0601: CPAP/APAP",
+    "x": 7.0666665,
+    "y": 3.0,
+    "w": 5.4066665,
+    "h": 0.6775,
+    "size": 21.5
+  },
+  {
+    "slide": 32,
+    "text": "E0470: E0601 tried and ineffective",
+    "x": 7.0666665,
+    "y": 3.7075,
+    "w": 5.4066665,
+    "h": 0.6775,
+    "size": 21.5
+  },
+  {
+    "slide": 32,
+    "text": "E0471: not covered for primary OSA",
+    "x": 7.0666665,
+    "y": 4.415,
+    "w": 5.4066665,
+    "h": 0.6775,
+    "size": 21.5
+  },
+  {
+    "slide": 32,
+    "text": "Clinical benefit plus defined adherence\nwindow",
+    "x": 7.0666665,
+    "y": 5.1225000000000005,
+    "w": 5.4066665,
+    "h": 0.6775,
+    "size": 21.5
+  },
+  {
+    "slide": 32,
+    "text": "PAP in the OSA policy includes E0601 and qualifying E0470 equipment.",
+    "x": 0.81,
+    "y": 6.12,
+    "w": 11.713333,
+    "h": 0.55,
+    "size": 19
+  },
+  {
+    "slide": 33,
+    "text": "APPENDIX · LCD L33800",
+    "x": 0.64,
+    "y": 0.22,
+    "w": 9.6,
+    "h": 0.28,
+    "size": 12
+  },
+  {
+    "slide": 33,
+    "text": "Non-COPD RAD: restrictive and hypoventilation routes",
+    "x": 0.64,
+    "y": 0.66,
+    "w": 12.053333,
+    "h": 1.0,
+    "size": 33
+  },
+  {
+    "slide": 33,
+    "text": "CMS LCD L33800 [R17] · CHEST NMD 2023 [R27]",
+    "x": 0.64,
+    "y": 7.045,
+    "w": 10.65,
+    "h": 0.27,
+    "size": 10.2
+  },
+  {
+    "slide": 33,
+    "text": "BACKUP · A07",
+    "x": 11.363332999999999,
+    "y": 7.045,
+    "w": 1.33,
+    "h": 0.25,
+    "size": 10.2
+  },
+  {
+    "slide": 33,
+    "text": "Restrictive thoracic / NMD",
+    "x": 0.86,
+    "y": 2.12,
+    "w": 5.4066665,
+    "h": 0.88,
+    "size": 26
+  },
+  {
+    "slide": 33,
+    "text": "Appropriate diagnosis; COPD not\nsignificant",
+    "x": 0.86,
+    "y": 3.0,
+    "w": 5.4066665,
+    "h": 0.6775,
+    "size": 21.5
+  },
+  {
+    "slide": 33,
+    "text": "PaCO₂ ≥45 OR qualifying nocturnal\ndesaturation",
+    "x": 0.86,
+    "y": 3.7075,
+    "w": 5.4066665,
+    "h": 0.6775,
+    "size": 21.5
+  },
+  {
+    "slide": 33,
+    "text": "NMD alternative: MIP <60 or FVC <50%",
+    "x": 0.86,
+    "y": 4.415,
+    "w": 5.4066665,
+    "h": 0.6775,
+    "size": 21.5
+  },
+  {
+    "slide": 33,
+    "text": "Either E0470 or E0471",
+    "x": 0.86,
+    "y": 5.1225000000000005,
+    "w": 5.4066665,
+    "h": 0.6775,
+    "size": 21.5
+  },
+  {
+    "slide": 33,
+    "text": "Hypoventilation syndrome",
+    "x": 7.0666665,
+    "y": 2.12,
+    "w": 5.4066665,
+    "h": 0.88,
+    "size": 26
+  },
+  {
+    "slide": 33,
+    "text": "Awake PaCO₂ ≥45 and FEV₁/FVC ≥70%",
+    "x": 7.0666665,
+    "y": 3.0,
+    "w": 5.4066665,
+    "h": 0.6775,
+    "size": 21.5
+  },
+  {
+    "slide": 33,
+    "text": "Additional sleep/waking gas or\nnonobstructive desaturation finding",
+    "x": 7.0666665,
+    "y": 3.7075,
+    "w": 5.4066665,
+    "h": 0.6775,
+    "size": 21.5
+  },
+  {
+    "slide": 33,
+    "text": "E0471 has a covered-E0470 step-up\nstructure",
+    "x": 7.0666665,
+    "y": 4.415,
+    "w": 5.4066665,
+    "h": 0.6775,
+    "size": 21.5
+  },
+  {
+    "slide": 33,
+    "text": "Symptoms and full documentation apply",
+    "x": 7.0666665,
+    "y": 5.1225000000000005,
+    "w": 5.4066665,
+    "h": 0.6775,
+    "size": 21.5
+  },
+  {
+    "slide": 33,
+    "text": "The NMD muscle-strength and FVC alternatives do not require an elevated daytime PaCO₂.",
+    "x": 0.81,
+    "y": 6.12,
+    "w": 11.713333,
+    "h": 0.55,
+    "size": 19
+  },
+  {
+    "slide": 34,
+    "text": "APPENDIX · CSA",
+    "x": 0.64,
+    "y": 0.22,
+    "w": 9.6,
+    "h": 0.28,
+    "size": 12
+  },
+  {
+    "slide": 34,
+    "text": "Central apnea: coverage and clinical guidance",
+    "x": 0.64,
+    "y": 0.66,
+    "w": 12.053333,
+    "h": 1.0,
+    "size": 33
+  },
+  {
+    "slide": 34,
+    "text": "CMS LCD L33800 [R17] · AASM CSA 2025 [R33]",
+    "x": 0.64,
+    "y": 7.045,
+    "w": 10.65,
+    "h": 0.27,
+    "size": 10.2
+  },
+  {
+    "slide": 34,
+    "text": "BACKUP · A08",
+    "x": 11.363332999999999,
+    "y": 7.045,
+    "w": 1.33,
+    "h": 0.25,
+    "size": 10.2
+  },
+  {
+    "slide": 34,
+    "text": "LCD coverage",
+    "x": 0.86,
+    "y": 2.12,
+    "w": 5.4066665,
+    "h": 0.88,
+    "size": 26
+  },
+  {
+    "slide": 34,
+    "text": "Attended facility polysomnography",
+    "x": 0.86,
+    "y": 3.0,
+    "w": 5.4066665,
+    "h": 0.6775,
+    "size": 21.5
+  },
+  {
+    "slide": 34,
+    "text": "AHI and CAHI ≥5; central events >50%",
+    "x": 0.86,
+    "y": 3.7075,
+    "w": 5.4066665,
+    "h": 0.6775,
+    "size": 21.5
+  },
+  {
+    "slide": 34,
+    "text": "CSA definition excludes hypoventilation",
+    "x": 0.86,
+    "y": 4.415,
+    "w": 5.4066665,
+    "h": 0.6775,
+    "size": 21.5
+  },
+  {
+    "slide": 34,
+    "text": "Qualifying response on prescribed settings",
+    "x": 0.86,
+    "y": 5.1225000000000005,
+    "w": 5.4066665,
+    "h": 0.6775,
+    "size": 21.5
+  },
+  {
+    "slide": 34,
+    "text": "2025 AASM guidance",
+    "x": 7.0666665,
+    "y": 2.12,
+    "w": 5.4066665,
+    "h": 0.88,
+    "size": 26
+  },
+  {
+    "slide": 34,
+    "text": "Etiology-specific CPAP, backup bilevel, or\nASV",
+    "x": 7.0666665,
+    "y": 3.0,
+    "w": 5.4066665,
+    "h": 0.6775,
+    "size": 21.5
+  },
+  {
+    "slide": 34,
+    "text": "Bilevel without backup suggested against",
+    "x": 7.0666665,
+    "y": 3.7075,
+    "w": 5.4066665,
+    "h": 0.6775,
+    "size": 21.5
+  },
+  {
+    "slide": 34,
+    "text": "HFrEF ASV: experienced-center monitoring",
+    "x": 7.0666665,
+    "y": 4.415,
+    "w": 5.4066665,
+    "h": 0.6775,
+    "size": 21.5
+  },
+  {
+    "slide": 34,
+    "text": "Clinical recommendations differ from code\neligibility",
+    "x": 7.0666665,
+    "y": 5.1225000000000005,
+    "w": 5.4066665,
+    "h": 0.6775,
+    "size": 21.5
+  },
+  {
+    "slide": 34,
+    "text": "Either E0470 or E0471 may satisfy the LCD; that permission is not a recommendation for every mode.",
+    "x": 0.81,
+    "y": 6.12,
+    "w": 11.713333,
+    "h": 0.55,
+    "size": 19
+  },
+  {
+    "slide": 35,
+    "text": "APPENDIX · CLINICAL EVIDENCE",
+    "x": 0.64,
+    "y": 0.22,
+    "w": 9.6,
+    "h": 0.28,
+    "size": 12
+  },
+  {
+    "slide": 35,
+    "text": "COPD trial comparison",
+    "x": 0.64,
+    "y": 0.66,
+    "w": 12.053333,
+    "h": 1.0,
+    "size": 33
+  },
+  {
+    "slide": 35,
+    "text": "Köhnlein et al. 2014 [R30] · Struik et al. 2014 [R31] · R32, R26",
+    "x": 0.64,
+    "y": 7.045,
+    "w": 10.65,
+    "h": 0.27,
+    "size": 10.2
+  },
+  {
+    "slide": 35,
+    "text": "BACKUP · A09",
+    "x": 11.363332999999999,
+    "y": 7.045,
+    "w": 1.33,
+    "h": 0.25,
+    "size": 10.2
+  },
+  {
+    "slide": 35,
+    "text": "Trial",
+    "x": 0.78,
+    "y": 1.99,
+    "w": 2.3200000000000003,
+    "h": 0.4,
+    "size": 20
+  },
+  {
+    "slide": 35,
+    "text": "Population",
+    "x": 3.3800000000000003,
+    "y": 1.99,
+    "w": 4.52,
+    "h": 0.4,
+    "size": 20
+  },
+  {
+    "slide": 35,
+    "text": "Principal result",
+    "x": 8.18,
+    "y": 1.99,
+    "w": 4.373333,
+    "h": 0.4,
+    "size": 20
+  },
+  {
+    "slide": 35,
+    "text": "Köhnlein 2014",
+    "x": 0.78,
+    "y": 2.4519999999999995,
+    "w": 2.3200000000000003,
+    "h": 1.145,
+    "size": 23
+  },
+  {
+    "slide": 35,
+    "text": "Stable severe hypercapnic COPD",
+    "x": 3.3800000000000003,
+    "y": 2.4519999999999995,
+    "w": 4.52,
+    "h": 1.145,
+    "size": 23
+  },
+  {
+    "slide": 35,
+    "text": "1-year mortality: 12% vs 33%",
+    "x": 8.18,
+    "y": 2.4519999999999995,
+    "w": 4.373333,
+    "h": 1.145,
+    "size": 23
+  },
+  {
+    "slide": 35,
+    "text": "RESCUE 2014",
+    "x": 0.78,
+    "y": 3.6419999999999995,
+    "w": 2.3200000000000003,
+    "h": 1.145,
+    "size": 23
+  },
+  {
+    "slide": 35,
+    "text": "Hypercapnia >48 h after acute\nsupport",
+    "x": 3.3800000000000003,
+    "y": 3.6419999999999995,
+    "w": 4.52,
+    "h": 1.145,
+    "size": 23
+  },
+  {
+    "slide": 35,
+    "text": "No primary readmission/death\nbenefit",
+    "x": 8.18,
+    "y": 3.6419999999999995,
+    "w": 4.373333,
+    "h": 1.145,
+    "size": 23
+  },
+  {
+    "slide": 35,
+    "text": "HOT-HMV 2017",
+    "x": 0.78,
+    "y": 4.832,
+    "w": 2.3200000000000003,
+    "h": 1.145,
+    "size": 23
+  },
+  {
+    "slide": 35,
+    "text": "Persistent hypercapnia 2–4\nweeks after acidosis resolved",
+    "x": 3.3800000000000003,
+    "y": 4.832,
+    "w": 4.52,
+    "h": 1.145,
+    "size": 23
+  },
+  {
+    "slide": 35,
+    "text": "HR 0.49 (95% CI 0.31–0.77)",
+    "x": 8.18,
+    "y": 4.832,
+    "w": 4.373333,
+    "h": 1.145,
+    "size": 23
+  },
+  {
+    "slide": 35,
+    "text": "Selection, timing, comparator, and ventilation strategy differed across trials.",
+    "x": 0.81,
+    "y": 6.12,
+    "w": 11.713333,
+    "h": 0.55,
+    "size": 19
+  },
+  {
+    "slide": 36,
+    "text": "APPENDIX · CLINICAL EVIDENCE",
+    "x": 0.64,
+    "y": 0.22,
+    "w": 9.6,
+    "h": 0.28,
+    "size": 12
+  },
+  {
+    "slide": 36,
+    "text": "Nocturnal and overlap populations",
+    "x": 0.64,
+    "y": 0.66,
+    "w": 12.053333,
+    "h": 1.0,
+    "size": 33
+  },
+  {
+    "slide": 36,
+    "text": "Ward et al. 2005 [R28] · Zheng et al. 2022 [R29] · R01",
+    "x": 0.64,
+    "y": 7.045,
+    "w": 10.65,
+    "h": 0.27,
+    "size": 10.2
+  },
+  {
+    "slide": 36,
+    "text": "BACKUP · A10",
+    "x": 11.363332999999999,
+    "y": 7.045,
+    "w": 1.33,
+    "h": 0.25,
+    "size": 10.2
+  },
+  {
+    "slide": 36,
+    "text": "Study",
+    "x": 0.78,
+    "y": 1.99,
+    "w": 2.37,
+    "h": 0.4,
+    "size": 20
+  },
+  {
+    "slide": 36,
+    "text": "Direct evidence",
+    "x": 3.43,
+    "y": 1.99,
+    "w": 4.819999999999999,
+    "h": 0.4,
+    "size": 20
+  },
+  {
+    "slide": 36,
+    "text": "Limits",
+    "x": 8.530000000000001,
+    "y": 1.99,
+    "w": 4.023333,
+    "h": 0.4,
+    "size": 20
+  },
+  {
+    "slide": 36,
+    "text": "Ward 2005\n26 randomized",
+    "x": 0.78,
+    "y": 2.4519999999999995,
+    "w": 2.37,
+    "h": 1.74,
+    "size": 23
+  },
+  {
+    "slide": 36,
+    "text": "NMD/chest-wall disease; nocturnal\nhypercapnia; daytime normocapnia",
+    "x": 3.43,
+    "y": 2.4519999999999995,
+    "w": 4.819999999999999,
+    "h": 1.74,
+    "size": 23
+  },
+  {
+    "slide": 36,
+    "text": "Small, mixed-age selected\npopulation",
+    "x": 8.530000000000001,
+    "y": 2.4519999999999995,
+    "w": 4.023333,
+    "h": 1.74,
+    "size": 23
+  },
+  {
+    "slide": 36,
+    "text": "Zheng 2022\n32 randomized",
+    "x": 0.78,
+    "y": 4.237,
+    "w": 2.37,
+    "h": 1.74,
+    "size": 23
+  },
+  {
+    "slide": 36,
+    "text": "Obesity + airway obstruction +\nchronic hypercapnia; BPAP-S vs\nCPAP",
+    "x": 3.43,
+    "y": 4.237,
+    "w": 4.819999999999999,
+    "h": 1.74,
+    "size": 23
+  },
+  {
+    "slide": 36,
+    "text": "3-month CO₂ endpoint; not\nan HMV comparison",
+    "x": 8.530000000000001,
+    "y": 4.237,
+    "w": 4.023333,
+    "h": 1.74,
+    "size": 23
+  },
+  {
+    "slide": 36,
+    "text": "An observed nocturnal abnormality does not have one validated treatment threshold across all\netiologies.",
+    "x": 0.81,
+    "y": 6.12,
+    "w": 11.713333,
+    "h": 0.55,
+    "size": 19
+  },
+  {
+    "slide": 37,
+    "text": "APPENDIX · PHYSIOLOGY AND FOLLOW-UP",
+    "x": 0.64,
+    "y": 0.22,
+    "w": 9.6,
+    "h": 0.28,
+    "size": 12
+  },
+  {
+    "slide": 37,
+    "text": "Measures of home-treatment performance",
+    "x": 0.64,
+    "y": 0.66,
+    "w": 12.053333,
+    "h": 1.0,
+    "size": 33
+  },
+  {
+    "slide": 37,
+    "text": "Locke & Brown 2023 [R02] · AARC 2012 [R34] · R35, R38",
+    "x": 0.64,
+    "y": 7.045,
+    "w": 10.65,
+    "h": 0.27,
+    "size": 10.2
+  },
+  {
+    "slide": 37,
+    "text": "BACKUP · A11",
+    "x": 11.363332999999999,
+    "y": 7.045,
+    "w": 1.33,
+    "h": 0.25,
+    "size": 10.2
+  },
+  {
+    "slide": 37,
+    "text": "Domain",
+    "x": 0.78,
+    "y": 1.99,
+    "w": 2.37,
+    "h": 0.4,
+    "size": 20
+  },
+  {
+    "slide": 37,
+    "text": "Examples",
+    "x": 3.43,
+    "y": 1.99,
+    "w": 4.87,
+    "h": 0.4,
+    "size": 20
+  },
+  {
+    "slide": 37,
+    "text": "Interpretation",
+    "x": 8.580000000000002,
+    "y": 1.99,
+    "w": 3.9733330000000002,
+    "h": 0.4,
+    "size": 20
+  },
+  {
+    "slide": 37,
+    "text": "Use",
+    "x": 0.78,
+    "y": 2.4519999999999995,
+    "w": 2.37,
+    "h": 0.8474999999999999,
+    "size": 23
+  },
+  {
+    "slide": 37,
+    "text": "Hours; days; interruptions",
+    "x": 3.43,
+    "y": 2.4519999999999995,
+    "w": 4.87,
+    "h": 0.8474999999999999,
+    "size": 23
+  },
+  {
+    "slide": 37,
+    "text": "Exposure to treatment",
+    "x": 8.580000000000002,
+    "y": 2.4519999999999995,
+    "w": 3.9733330000000002,
+    "h": 0.8474999999999999,
+    "size": 23
+  },
+  {
+    "slide": 37,
+    "text": "Technical\nsupport",
+    "x": 0.78,
+    "y": 3.3444999999999996,
+    "w": 2.37,
+    "h": 0.8474999999999999,
+    "size": 23
+  },
+  {
+    "slide": 37,
+    "text": "Leak; triggering; residual events",
+    "x": 3.43,
+    "y": 3.3444999999999996,
+    "w": 4.87,
+    "h": 0.8474999999999999,
+    "size": 23
+  },
+  {
+    "slide": 37,
+    "text": "Device-specific estimates",
+    "x": 8.580000000000002,
+    "y": 3.3444999999999996,
+    "w": 3.9733330000000002,
+    "h": 0.8474999999999999,
+    "size": 23
+  },
+  {
+    "slide": 37,
+    "text": "Gas exchange",
+    "x": 0.78,
+    "y": 4.237,
+    "w": 2.37,
+    "h": 0.8474999999999999,
+    "size": 23
+  },
+  {
+    "slide": 37,
+    "text": "Awake ABG; nocturnal CO₂ / SpO₂",
+    "x": 3.43,
+    "y": 4.237,
+    "w": 4.87,
+    "h": 0.8474999999999999,
+    "size": 23
+  },
+  {
+    "slide": 37,
+    "text": "Timing and measurement\nmethod matter",
+    "x": 8.580000000000002,
+    "y": 4.237,
+    "w": 3.9733330000000002,
+    "h": 0.8474999999999999,
+    "size": 23
+  },
+  {
+    "slide": 37,
+    "text": "Patient\noutcomes",
+    "x": 0.78,
+    "y": 5.1295,
+    "w": 2.37,
+    "h": 0.8474999999999999,
+    "size": 23
+  },
+  {
+    "slide": 37,
+    "text": "Symptoms; sleep; function;\nadmissions",
+    "x": 3.43,
+    "y": 5.1295,
+    "w": 4.87,
+    "h": 0.8474999999999999,
+    "size": 23
+  },
+  {
+    "slide": 37,
+    "text": "Not interchangeable with\nusage",
+    "x": 8.580000000000002,
+    "y": 5.1295,
+    "w": 3.9733330000000002,
+    "h": 0.8474999999999999,
+    "size": 23
+  },
+  {
+    "slide": 37,
+    "text": "Association between CO₂ reduction and outcome is not proof of a universal causal treatment target.",
+    "x": 0.81,
+    "y": 6.12,
+    "w": 11.713333,
+    "h": 0.55,
+    "size": 19
+  },
+  {
+    "slide": 38,
+    "text": "APPENDIX · CURRENT POLICY",
+    "x": 0.64,
+    "y": 0.22,
+    "w": 9.6,
+    "h": 0.28,
+    "size": 12
+  },
+  {
+    "slide": 38,
+    "text": "Documentation and source index",
+    "x": 0.64,
+    "y": 0.66,
+    "w": 12.053333,
+    "h": 1.0,
+    "size": 33
+  },
+  {
+    "slide": 38,
+    "text": "CMS A55426 [R19] · CMS order requirements [R21] · R22, R23",
+    "x": 0.64,
+    "y": 7.045,
+    "w": 10.65,
+    "h": 0.27,
+    "size": 10.2
+  },
+  {
+    "slide": 38,
+    "text": "BACKUP · A12",
+    "x": 11.363332999999999,
+    "y": 7.045,
+    "w": 1.33,
+    "h": 0.25,
+    "size": 10.2
+  },
+  {
+    "slide": 38,
+    "text": "Topic",
+    "x": 0.78,
+    "y": 1.99,
+    "w": 4.12,
+    "h": 0.4,
+    "size": 20
+  },
+  {
+    "slide": 38,
+    "text": "Source",
+    "x": 5.18,
+    "y": 1.99,
+    "w": 7.373333,
+    "h": 0.4,
+    "size": 20
+  },
+  {
+    "slide": 38,
+    "text": "COPD RAD / HMV",
+    "x": 0.78,
+    "y": 2.4519999999999995,
+    "w": 4.12,
+    "h": 0.5499999999999999,
+    "size": 22
+  },
+  {
+    "slide": 38,
+    "text": "NCD 240.9 and CMS FAQ",
+    "x": 5.18,
+    "y": 2.4519999999999995,
+    "w": 7.373333,
+    "h": 0.5499999999999999,
+    "size": 22
+  },
+  {
+    "slide": 38,
+    "text": "OSA PAP",
+    "x": 0.78,
+    "y": 3.0469999999999993,
+    "w": 4.12,
+    "h": 0.5499999999999999,
+    "size": 22
+  },
+  {
+    "slide": 38,
+    "text": "NCD 240.4; LCD L33718",
+    "x": 5.18,
+    "y": 3.0469999999999993,
+    "w": 7.373333,
+    "h": 0.5499999999999999,
+    "size": 22
+  },
+  {
+    "slide": 38,
+    "text": "Non-COPD RAD",
+    "x": 0.78,
+    "y": 3.6419999999999995,
+    "w": 4.12,
+    "h": 0.5499999999999999,
+    "size": 22
+  },
+  {
+    "slide": 38,
+    "text": "LCD L33800",
+    "x": 5.18,
+    "y": 3.6419999999999995,
+    "w": 7.373333,
+    "h": 0.5499999999999999,
+    "size": 22
+  },
+  {
+    "slide": 38,
+    "text": "Other ventilator indications",
+    "x": 0.78,
+    "y": 4.237,
+    "w": 4.12,
+    "h": 0.5499999999999999,
+    "size": 22
+  },
+  {
+    "slide": 38,
+    "text": "NCD 280.1; contractor coding guidance",
+    "x": 5.18,
+    "y": 4.237,
+    "w": 7.373333,
+    "h": 0.5499999999999999,
+    "size": 22
+  },
+  {
+    "slide": 38,
+    "text": "F2F / prior written order",
+    "x": 0.78,
+    "y": 4.832,
+    "w": 4.12,
+    "h": 0.5499999999999999,
+    "size": 22
+  },
+  {
+    "slide": 38,
+    "text": "CMS order requirements; Oct 28, 2026 expansion",
+    "x": 5.18,
+    "y": 4.832,
+    "w": 7.373333,
+    "h": 0.5499999999999999,
+    "size": 22
+  },
+  {
+    "slide": 38,
+    "text": "Utah Medicaid",
+    "x": 0.78,
+    "y": 5.427,
+    "w": 4.12,
+    "h": 0.5499999999999999,
+    "size": 22
+  },
+  {
+    "slide": 38,
+    "text": "State criteria and applicable plan process",
+    "x": 5.18,
+    "y": 5.427,
+    "w": 7.373333,
+    "h": 0.5499999999999999,
+    "size": 22
+  },
+  {
+    "slide": 38,
+    "text": "Policy reference date: September 19, 2026. E0466/E0467/E0468 F2F/WOPD expansion is forthcoming.",
+    "x": 0.81,
+    "y": 6.12,
+    "w": 11.713333,
+    "h": 0.55,
+    "size": 19
+  }
+]

@@ -1,0 +1,296 @@
+{
+  "R01": {
+    "id": "R01",
+    "citation": "Locke BW, Brown JP, Sundar KM. The Role of Obstructive Sleep Apnea in Hypercapnic Respiratory Failure Identified in Critical Care, Emergency, Inpatient, and Outpatient Settings. Sleep Med Clin. 2024;19(2):339–356.",
+    "url": "https://doi.org/10.1016/j.jsmc.2024.02.012",
+    "scope": "Supplied full review. Source for nocturnal physiology, overlapping causes, and limitations of diagnosis-specific cohorts."
+  },
+  "R02": {
+    "id": "R02",
+    "citation": "Locke BW, Brown J. What Are We Aiming for in Chronic Hypercapnic Respiratory Failure? Respir Care. 2023;68(12):1775–1778.",
+    "url": "https://doi.org/10.4187/respcare.11573",
+    "scope": "Supplied author proof. The local filename says 2024; the publication is 2023. Used for the care-delivery research gap, not as an intervention trial."
+  },
+  "R03": {
+    "id": "R03",
+    "citation": "Piper AJ, Yee BJ. Hypoventilation Syndromes. Compr Physiol. 2014;4:1639–1676.",
+    "url": "https://doi.org/10.1002/cphy.c140008",
+    "scope": "Bibliographic anchor requested by the presenter. The full review was not retrieved for this build; the detailed physiology here is grounded in R01 and R04."
+  },
+  "R04": {
+    "id": "R04",
+    "citation": "Shah NM, Steier J, Hart N, Kaltsakas G. Effects of non-invasive ventilation on sleep in chronic hypercapnic respiratory failure. Thorax. Published online November 18, 2023.",
+    "url": "https://doi.org/10.1136/thorax-2023-220035",
+    "scope": "Supplied full review. Used for the sleep-related expression of ventilatory impairment and the importance of sleep quality."
+  },
+  "R05": {
+    "id": "R05",
+    "citation": "Hind M, Polkey MI, Simonds AK. Homeward Bound: A Centenary of Home Mechanical Ventilation. Am J Respir Crit Care Med. 2017;195(9):1140–1149.",
+    "url": "https://doi.org/10.1164/rccm.201702-0285CI",
+    "scope": "Supplied full PDF. Historical review; Figure 1 provides the illustrative iron-lung photograph. Photograph date, location, and reuse license are not specified."
+  },
+  "R06": {
+    "id": "R06",
+    "citation": "King AC. Long-Term Home Mechanical Ventilation in the United States. Respir Care. 2012;57(6):921–930.",
+    "url": "https://doi.org/10.4187/respcare.01741",
+    "scope": "Supplied full paper. Historical and care-system context only; older device features and payment details are not treated as current rules."
+  },
+  "R07": {
+    "id": "R07",
+    "citation": "Wunsch H. The Autumn Ghost. Greystone Books; 2023. Published excerpt and author interview, September 18, 2023.",
+    "url": "https://www.wbur.org/hereandnow/2023/09/18/the-autumn-ghost-polio",
+    "scope": "Only the published excerpt/interview was consulted, not the complete book. The excerpt supplies the opening account of Vivi Ebert in Copenhagen in 1952."
+  },
+  "R08": {
+    "id": "R08",
+    "citation": "Lassen HCA. A preliminary report on the 1952 epidemic of poliomyelitis in Copenhagen with special reference to the treatment of acute respiratory insufficiency. Lancet. 1953;1:37–41.",
+    "url": "https://doi.org/10.1016/S0140-6736(53)92530-6",
+    "scope": "Primary historical bibliographic anchor. Detailed narrative corroborated by R05 and the Wunsch excerpt; no effect estimate is reconstructed from this report."
+  },
+  "R09": {
+    "id": "R09",
+    "citation": "March of Dimes. Celebrate our history.",
+    "url": "https://www.marchofdimes.org/about-us/celebrate-our-history",
+    "scope": "Institutional history consulted September 19, 2026. Supports the 1946 equipment mobilization and subsequent vaccine work."
+  },
+  "R10": {
+    "id": "R10",
+    "citation": "Gusman E, Wolfe LF. Billing and Coding Guidance: Device and Discharge Planning. Sleep Med Clin. 2025.",
+    "url": "https://doi.org/10.1016/j.jsmc.2025.07.014",
+    "scope": "Presenter’s Drive text was reviewed in the preceding work. The polio-specific account of early coverage intent is retrospective and uncited in the article. It is not presented as archival proof."
+  },
+  "R11": {
+    "id": "R11",
+    "citation": "Sullivan CE, Issa FG, Berthon-Jones M, Eves L. Reversal of obstructive sleep apnoea by continuous positive airway pressure applied through the nares. Lancet. 1981;1:862–865.",
+    "url": "https://doi.org/10.1016/S0140-6736(81)92140-1",
+    "scope": "Primary report anchoring nasal CPAP for OSA."
+  },
+  "R12": {
+    "id": "R12",
+    "citation": "Sanders MH, Kern N. Obstructive sleep apnea treated by independently adjusted inspiratory and expiratory positive airway pressures via nasal mask. Chest. 1990;98:317–324.",
+    "url": "https://doi.org/10.1378/chest.98.2.317",
+    "scope": "Primary report anchoring independently adjustable inspiratory and expiratory pressure."
+  },
+  "R13": {
+    "id": "R13",
+    "citation": "CMS. Medicare Program; Payment for Respiratory Assist Devices With Bi-Level Capability and a Backup Rate. Final rule. 71 FR 4518–4525. January 27, 2006. Effective April 1, 2006.",
+    "url": "https://www.govinfo.gov/content/pkg/FR-2006-01-27/html/06-798.htm",
+    "scope": "Primary regulatory record. Explains the 1993 statutory exclusion, equipment-servicing rationale, and later backup-rate RAD reclassification."
+  },
+  "R14": {
+    "id": "R14",
+    "citation": "Gay PC, Owens RL, on behalf of the ONMAP Technical Expert Panel. Optimal NIV Medicare Access Promotion: Executive Summary. Chest. 2021;160(5):1808–1821.",
+    "url": "https://doi.org/10.1016/j.chest.2021.05.074",
+    "scope": "Presenter’s Drive full-text extraction was reviewed in the preceding work. Expert recommendations and reported barriers; not binding coverage policy."
+  },
+  "R15": {
+    "id": "R15",
+    "citation": "HHS Office of Inspector General. Escalating Medicare Billing for Ventilators Raises Concerns. OEI-12-15-00370. September 2016.",
+    "url": "https://oig.hhs.gov/reports/all/2016/escalating-medicare-billing-for-ventilators-raises-concerns/",
+    "scope": "Primary descriptive oversight report. Claims growth is not an estimate of the causal effect of RAD criteria."
+  },
+  "R16": {
+    "id": "R16",
+    "citation": "CMS. NCD 240.9: Noninvasive Positive Pressure Ventilation in the Home for Chronic Respiratory Failure Consequent to COPD. Version effective June 9, 2025.",
+    "url": "https://www.cms.gov/medicare-coverage-database/view/ncd.aspx?ncdid=380&ncdver=1",
+    "scope": "Official NCD reread September 19, 2026, including current revision history. Effective date June 9, 2025; initial implementation October 22, 2025."
+  },
+  "R17": {
+    "id": "R17",
+    "citation": "DME MACs. LCD L33800: Respiratory Assist Devices.",
+    "url": "https://www.cms.gov/medicare-coverage-database/view/lcd.aspx?lcdid=33800",
+    "scope": "Official LCD reread September 19, 2026. Includes non-COPD RAD criteria and a cross-reference to NCD 240.9."
+  },
+  "R18": {
+    "id": "R18",
+    "citation": "DME MACs. LCD L33718: Positive Airway Pressure Devices for the Treatment of Obstructive Sleep Apnea.",
+    "url": "https://www.cms.gov/medicare-coverage-database/view/lcd.aspx?lcdid=33718",
+    "scope": "Official LCD reread September 19, 2026. Covers E0601 and qualifying E0470 use for OSA."
+  },
+  "R19": {
+    "id": "R19",
+    "citation": "DME MACs. Article A55426: Standard Documentation Requirements for All Claims Submitted to DME MACs.",
+    "url": "https://www.cms.gov/medicare-coverage-database/view/article.aspx?articleid=55426",
+    "scope": "Live documentation requirements checked September 19, 2026. Order, medical record, coding, and delivery evidence are distinct."
+  },
+  "R20": {
+    "id": "R20",
+    "citation": "Noridian. Correct Billing and Coding of Ventilators, revised.",
+    "url": "https://med.noridianmedicare.com/web/jadme/policies/dmd-articles/2025/correct-billing-and-coding-of-ventilators-revised-b",
+    "scope": "Contractor guidance consulted September 19, 2026. Ventilator coding and bundled frequent-and-substantial-servicing rental."
+  },
+  "R21": {
+    "id": "R21",
+    "citation": "CMS. DMEPOS Written Order, Face-to-Face Encounter, and Written Order Prior to Delivery Requirements.",
+    "url": "https://www.cms.gov/data-research/monitoring-programs/medicare-fee-service-compliance-programs/medical-review-and-education/dmepos-order-requirements",
+    "scope": "Live page checked September 19, 2026. Distinguish the date a requirement is announced from its effective date."
+  },
+  "R22": {
+    "id": "R22",
+    "citation": "CGS. New Codes Added to Required Face-to-Face and Written Order Prior To Delivery List – Effective October 28, 2026. September 10, 2026.",
+    "url": "https://www.cgsmedicare.com/jc/pubs/news/2026/09/news-210620.html",
+    "scope": "Official contractor announcement reread September 19, 2026. E0466/E0467/E0468 provisions are forthcoming at the evidence cutoff."
+  },
+  "R23": {
+    "id": "R23",
+    "citation": "Utah Medicaid. Utah Medicaid Criteria.",
+    "url": "https://medicaid.utah.gov/utah-medicaid-criteria/",
+    "scope": "Consulted September 19, 2026. This is not a code-specific Utah authorization checklist; local requirements still require verification."
+  },
+  "R24": {
+    "id": "R24",
+    "citation": "Patil SP, et al. Treatment of Adult Obstructive Sleep Apnea with Positive Airway Pressure: An AASM Clinical Practice Guideline. J Clin Sleep Med. 2019;15:335–343.",
+    "url": "https://doi.org/10.5664/jcsm.7640",
+    "scope": "Society guideline. Routine adult OSA treatment and ongoing support."
+  },
+  "R25": {
+    "id": "R25",
+    "citation": "Mokhlesi B, et al. Evaluation and Management of Obesity Hypoventilation Syndrome: An Official ATS Clinical Practice Guideline. Am J Respir Crit Care Med. 2019;200:e6–e24.",
+    "url": "https://doi.org/10.1164/rccm.201905-1071ST",
+    "scope": "Society guideline. Stable OHS with severe OSA and hospital-discharge recommendations are distinct, conditional recommendations."
+  },
+  "R26": {
+    "id": "R26",
+    "citation": "Macrea M, et al. Long-Term Noninvasive Ventilation in Chronic Stable Hypercapnic COPD: An Official ATS Clinical Practice Guideline. Am J Respir Crit Care Med. 2020;202:e74–e87.",
+    "url": "https://doi.org/10.1164/rccm.202006-2382ST",
+    "scope": "Society guideline. Patient selection, OSA assessment, timing after exacerbation, and PaCO2-targeted treatment."
+  },
+  "R27": {
+    "id": "R27",
+    "citation": "Khan A, et al. Respiratory Management of Patients With Neuromuscular Weakness: CHEST Clinical Practice Guideline and Expert Panel Report. Chest. 2023;164:394–413.",
+    "url": "https://doi.org/10.1016/j.chest.2023.03.011",
+    "scope": "Society guideline and official CHEST summary reviewed. Individualized ventilation and respiratory care, not a universal device ladder."
+  },
+  "R28": {
+    "id": "R28",
+    "citation": "Ward S, Chatwin M, Heather S, Simonds AK. Randomised controlled trial of NIV for nocturnal hypoventilation in neuromuscular and chest wall disease patients with daytime normocapnia. Thorax. 2005;60:1019–1024.",
+    "url": "https://doi.org/10.1136/thx.2004.037424",
+    "scope": "Primary trial, 26 randomized patients. This build uses the indexed primary abstract; it does not claim a new individual-patient or full-supplement audit."
+  },
+  "R29": {
+    "id": "R29",
+    "citation": "Zheng Y, Yee BJ, Wong K, Grunstein R, Piper A. A pilot randomized trial comparing CPAP vs bilevel PAP spontaneous mode in patients with obesity and obstructive airway disease. J Clin Sleep Med. 2022;18:99–107.",
+    "url": "https://doi.org/10.5664/jcsm.9506",
+    "scope": "Primary pilot trial. Indexed abstract verified; 16 analyzed in each group, three-month PaCO2 comparison."
+  },
+  "R30": {
+    "id": "R30",
+    "citation": "Köhnlein T, et al. Non-invasive positive pressure ventilation for the treatment of severe stable COPD: a prospective, multicentre, randomised, controlled clinical trial. Lancet Respir Med. 2014;2:698–705.",
+    "url": "https://doi.org/10.1016/S2213-2600(14)70153-5",
+    "scope": "Primary trial. Selected stable severe hypercapnic COPD; active PaCO2-reduction strategy."
+  },
+  "R31": {
+    "id": "R31",
+    "citation": "Struik FM, et al. Nocturnal NIV in COPD patients with prolonged hypercapnia after ventilatory support for acute respiratory failure: a randomised, controlled, parallel-group study. Thorax. 2014;69:826–834.",
+    "url": "https://doi.org/10.1136/thoraxjnl-2014-205126",
+    "scope": "RESCUE primary trial. Earlier post-exacerbation enrollment; no primary readmission/death benefit."
+  },
+  "R32": {
+    "id": "R32",
+    "citation": "Murphy PB, et al. Effect of Home NIV With Oxygen Therapy vs Oxygen Therapy Alone on Hospital Readmission or Death After an Acute COPD Exacerbation. JAMA. 2017;317:2177–2186.",
+    "url": "https://doi.org/10.1001/jama.2017.4451",
+    "scope": "HOT-HMV primary trial. Persistent hypercapnia after recovery; a treatment strategy, not a comparison of US billing categories."
+  },
+  "R33": {
+    "id": "R33",
+    "citation": "Badr MS, et al. Treatment of Central Sleep Apnea in Adults: An AASM Clinical Practice Guideline. J Clin Sleep Med. 2025;21:2181–2191.",
+    "url": "https://doi.org/10.5664/jcsm.11858",
+    "scope": "Current society guideline checked. Etiology-specific choices; recommends against spontaneous-only bilevel for the listed CSA settings."
+  },
+  "R34": {
+    "id": "R34",
+    "citation": "Restrepo RD, Hirst KR, Wittnebel L, Wettstein R. AARC Clinical Practice Guideline: Transcutaneous Monitoring of Carbon Dioxide and Oxygen: 2012. Respir Care. 2012;57:1955–1962.",
+    "url": "https://doi.org/10.4187/respcare.02011",
+    "scope": "Supplied full guideline. Measurement validation and sensor limitations; not a coverage equivalence statement."
+  },
+  "R35": {
+    "id": "R35",
+    "citation": "Jimenez JV, et al. Lowering PCO2 With Noninvasive Ventilation Is Associated With Improved Survival in Chronic Hypercapnic Respiratory Failure. Respir Care. 2023.",
+    "url": "https://doi.org/10.4187/respcare.10813",
+    "scope": "Supplied full author manuscript. Observational association, not a randomized comparison of CO2 targets."
+  },
+  "R36": {
+    "id": "R36",
+    "citation": "Chung Y, Garden FL, Marks GB, Vedam H. Causes of hypercapnic respiratory failure and associated in-hospital mortality. Respirology. 2022.",
+    "url": "https://doi.org/10.1111/resp.14388",
+    "scope": "Supplied full paper. Broad case ascertainment and potentially contributing conditions; diagnostic coding limits causal interpretation."
+  },
+  "R37": {
+    "id": "R37",
+    "citation": "Chung Y, et al. Long-term cohort study of patients presenting with hypercapnic respiratory failure. BMJ Open Respir Res. 2024;11:e002266.",
+    "url": "https://doi.org/10.1136/bmjresp-2023-002266",
+    "scope": "Supplied full paper. Used for the need to study the undifferentiated, multimorbid population."
+  },
+  "R38": {
+    "id": "R38",
+    "citation": "Berry RB, et al. Rules for Scoring Respiratory Events in Sleep: Update of the 2007 AASM Manual. J Clin Sleep Med. 2012;8:597–619.",
+    "url": "https://doi.org/10.5664/jcsm.2172",
+    "scope": "Foundational scoring report; the score does not itself establish a disease-independent treatment indication."
+  },
+  "R39": {
+    "id": "R39",
+    "citation": "Medicare.gov. Continuous Positive Airway Pressure Devices.",
+    "url": "https://www.medicare.gov/coverage/continuous-positive-airway-pressure-devices",
+    "scope": "Current beneficiary explanation, including ownership following 13 continuous rental payments."
+  },
+  "R40": {
+    "id": "R40",
+    "citation": "CMS. National and Local Coverage Determination Process.",
+    "url": "https://www.cms.gov/medicare/coverage/determination-process",
+    "scope": "Primary explanation of the coverage hierarchy. Contractor implementation is distinct from supplier delivery."
+  },
+  "R41": {
+    "id": "R41",
+    "citation": "CMS. NCD 280.1: Durable Medical Equipment Reference List.",
+    "url": "https://www.cms.gov/medicare-coverage-database/view/ncd.aspx?ncdid=190",
+    "scope": "Ventilator coverage reference for neuromuscular/thoracic restrictive disease and cross-reference to COPD NCD 240.9."
+  },
+  "R42": {
+    "id": "R42",
+    "citation": "Garner JK, Alley MP. How the design of presentation slides affects audience comprehension: a case for the assertion–evidence approach. International Journal of Engineering Education. 2013;29:1564–1579.",
+    "url": "https://pure.psu.edu/en/publications/how-the-design-of-presentation-slides-affects-audience-comprehens/",
+    "scope": "Educational-design support from a different learner population; not proof of a particular font size or benefit in this lecture."
+  },
+  "R43": {
+    "id": "R43",
+    "citation": "Larsen DP, Butler AC, Roediger HL III. Repeated testing improves long-term retention relative to repeated study: a randomised controlled trial. Medical Education. 2009;43:1174–1181.",
+    "url": "https://doi.org/10.1111/j.1365-2923.2009.03518.x",
+    "scope": "Medical-education trial with repeated, spaced testing. Supports retrieval with feedback; does not establish an effect size for in-lecture polls."
+  },
+  "R44": {
+    "id": "R44",
+    "citation": "CMS. NCD 240.4: Continuous Positive Airway Pressure Therapy for Obstructive Sleep Apnea. Version 3, effective March 13, 2008.",
+    "url": "https://www.cms.gov/medicare-coverage-database/view/ncd.aspx?ncdid=226&ncdver=3",
+    "scope": "Official policy and revision history reread September 19, 2026. Includes the initial 1987 coverage milestone and 2002 and 2008 expansions."
+  },
+  "R45": {
+    "id": "R45",
+    "citation": "Sullivan CE, Issa FG, Berthon-Jones M, McCauley VB, Costas LJ. Home treatment of obstructive sleep apnoea with continuous positive airway pressure applied through a nose-mask. Bull Eur Physiopathol Respir. 1984;20(1):49–54.",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/6367865/",
+    "scope": "Primary indexed abstract consulted for this revision. Home treatment began in 1981; 35 patients had used therapy for 3–30 months at publication."
+  },
+  "R46": {
+    "id": "R46",
+    "citation": "CMS. NCD 240.9 FAQ.",
+    "url": "https://www.cms.gov/data-research/monitoring-programs/medicare-fee-service-compliance-programs/medical-review-education/ncd-240-9-faq",
+    "scope": "Official FAQ consulted September 19, 2026. Addresses clinician documentation of device usage; a machine readout is not specified as the sole source."
+  },
+  "R47": {
+    "id": "R47",
+    "citation": "HHS OIG. Escalating Medicare Billing for Ventilators Raises Concerns. Full report OEI-12-15-00370. September 2016.",
+    "url": "https://oig.hhs.gov/documents/evaluation/3183/OEI-12-15-00370-Complete%20Report.pdf",
+    "scope": "Full report consulted for claims, expenditures, beneficiaries, and the limitations of billing indicators. Expenditures combine Medicare and beneficiary amounts."
+  },
+  "R48": {
+    "id": "R48",
+    "citation": "CMS. CMS Revises Payment Classification of Certain Respiratory Assist Devices. January 26, 2006.",
+    "url": "https://www.cms.gov/newsroom/press-releases/cms-revises-payment-classification-certain-respiratory-assist-devices",
+    "scope": "Contemporaneous agency summary of the backup-rate RAD payment change, effective April 1, 2006."
+  },
+  "R49": {
+    "id": "R49",
+    "citation": "Georgia Medicaid. TEFRA/Katie Beckett: statutory history and program description.",
+    "url": "https://medicaid.georgia.gov/programs/all-programs/tefrakatie-beckett",
+    "scope": "Official state Medicaid description consulted September 19, 2026 for the 1982 TEFRA milestone and parental-income disregard. Not used as a Utah eligibility guide."
+  }
+}

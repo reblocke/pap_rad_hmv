@@ -1,23 +1,18 @@
 # PAP, RADs, HMVs
 ## Historical pathways and the current landscape
 
-**Version 2 · September 19, 2026**
-
-**Audience:** pulmonary and critical care fellows
-
-**Format:** 26 main slides with 40 minutes of nominal content, plus 5 minutes of discussion
-
+**Version 2 · September 19, 2026**  
+**Audience:** pulmonary and critical care fellows  
+**Format:** 26 main slides with 40 minutes of nominal content, plus 5 minutes of discussion  
 **Appendix:** 12 hidden slides; 38 slides in the complete PowerPoint and PDF
-
-This is the current working version in [reblocke/pap_rad_hmv](https://github.com/reblocke/pap_rad_hmv), imported from `PAP_RAD_HMV_Pathways_v2_Package.zip`. The initial 24-slide draft and Node.js build are preserved in [archive/v1](archive/v1/README.md). Version 2 uses the Python build below.
 
 ## Files
 
 | File | Contents |
 |---|---|
-| [PAP_RAD_HMV_Pathways_v2.pptx](PAP_RAD_HMV_Pathways_v2.pptx) | Editable PowerPoint. Main slides appear in pathway order; the appendix is hidden from the default slideshow. Every slide has factual notes and references. |
-| [PAP_RAD_HMV_Pathways_v2.pdf](PAP_RAD_HMV_Pathways_v2.pdf) | Rendered preview of all 38 slides, including the appendix. |
-| [PAP_RAD_HMV_Companion_v2.md](PAP_RAD_HMV_Companion_v2.md) | Approximately 17,700 words of slide-matched factual context, clinical evidence, historical details, policy criteria, source qualifications, and references. |
+| `PAP_RAD_HMV_Pathways_v2.pptx` | Editable PowerPoint. Main slides appear in pathway order; the appendix is hidden from the default slideshow. Every slide has factual notes and references. |
+| `PAP_RAD_HMV_Pathways_v2.pdf` | Rendered preview of all 38 slides, including the appendix. |
+| `PAP_RAD_HMV_Companion_v2.md` | Approximately 17,700 words of slide-matched factual context, clinical evidence, historical details, policy criteria, source qualifications, and references. |
 | `build/content.py` | Source of the slide order, display facts, detailed context, reference links, and duration allocations. |
 | `build/slides.json` | Generated slide manifest with stable slide IDs. |
 | `build/references.json` | Reference database with consultation scope. |
@@ -26,10 +21,7 @@ This is the current working version in [reblocke/pap_rad_hmv](https://github.com
 | `build/validate.py` | Checks slide counts, hidden flags, duration allocations, notes, anchors, physical boundaries, and rendered text. |
 | `build/requirements.txt` | Python build dependencies. |
 | `assets/iron_lung_hind2017.jpeg` | Attributed historical illustration from the supplied Hind review; reuse qualification below. |
-| `qa/validation.json` | Validation report supplied with the package; see the validation qualifications below. |
-| [docs/import-v2.md](docs/import-v2.md) | Repository placement, source checksums, and local integration checks. |
-| [docs/source-package-v2/README.md](docs/source-package-v2/README.md), [SHA256.json](docs/source-package-v2/SHA256.json) | Unchanged source-package documentation and checksum manifest. Manifest paths refer to the original package layout. |
-| [archive/v1/README.md](archive/v1/README.md) | Original draft, outline, and Node.js build with archived build instructions. |
+| `qa/validation.json` | Structural and rendered-text validation results. |
 
 ## Main sequence
 
@@ -43,17 +35,15 @@ This is the current working version in [reblocke/pap_rad_hmv](https://github.com
 
 The histories are connected. The sections are not an assertion that three independent technologies emerged without interaction, or that patients belong to three mutually exclusive groups.
 
-## Version 2 organization
+## Changes from the preceding version
 
-Version 2 follows a historical pathway sequence. Multifactorial and nocturnal physiology appears mainly within the integration section. Historical noninvasive ventilator claims growth and the OIG findings have dedicated slides before the coverage update. The source package's description of changes from its preceding version is retained in [its original README](docs/source-package-v2/README.md).
+The prior patient-first, exercise-based sequence has been replaced by the requested historical pathway sequence. The multifactorial and nocturnal physiology content remains, mainly within the integration section. Historical noninvasive ventilator claims growth and the OIG findings now have dedicated slides before the coverage update.
 
 Slide text consists of dates, mechanisms, clinical populations, quantitative results, equipment distinctions, and coverage facts. The earlier learner prompts, debriefs, presenter instructions, and scripted narration are absent from the deck and companion. The companion is a factual reference document, not a teaching script. Detailed context also appears in the PowerPoint notes.
 
 The README, slide IDs, source manifest, PowerPoint, and Markdown companion use the same organization. References retain stable `Rxx` identifiers across versions. Unused references are omitted from the companion bibliography.
 
 ## Evidence and policy scope
-
-The following review scope and reference date are supplied with version 2; they were not independently revalidated during repository import.
 
 **Reference date:** September 19, 2026. The national COPD coverage policy is NCD 240.9, effective June 9, 2025. Its subsequent revision history and selected associated documentation sources were reviewed for this revision. NCD 240.4, LCD L33718, LCD L33800, NCD 280.1, and the cited coding and documentation sources are identified separately.
 
@@ -73,13 +63,11 @@ All other diagrams, waveform illustrations, and tables are newly assembled nativ
 
 ## Build
 
-The build uses Python 3.11 or newer, `python-pptx`, Pillow, and PyMuPDF. LibreOffice supplies the PDF conversion. Fontconfig supplies font metrics for the Calibri-compatible font installed in the build environment. The source package reports using Carlito for Calibri substitution; fonts are not packaged.
+The build uses Python 3.11 or newer, `python-pptx`, Pillow, and PyMuPDF. LibreOffice supplies the PDF conversion. Fontconfig supplies font metrics for the Calibri-compatible font installed in the build environment. The renderer used Carlito for local Calibri substitution; fonts are not packaged.
 
-From the repository root, using Python 3.11 or newer:
+From the package root:
 
 ```bash
-python3 -m venv .venv
-source .venv/bin/activate
 python -m pip install -r build/requirements.txt
 python build/content.py
 python build/make_deck.py
@@ -96,14 +84,10 @@ python build/validate.py
 
 `make_deck.py` creates the presentation with hidden appendix slides and an all-visible intermediate in `qa/` for complete PDF export. A rebuild replaces generated files in this package directory. Manual changes to the PowerPoint are not imported back into `content.py` or the renderer.
 
-`fc-match` (Fontconfig) must be on `PATH` for PowerPoint generation; `soffice` (LibreOffice) must be on `PATH` for PDF conversion. Check `fc-match Calibri` and `fc-match 'Calibri:style=Bold'` before rebuilding. Different available fonts may change line breaks and layout. The Python dependencies are pinned in `build/requirements.txt`; fonts and LibreOffice are separate system dependencies.
-
-The provided PPTX, PDF, companion, build sources, image, and QA records were imported unchanged. Temporary render images, the all-visible PowerPoint, and the intermediate PDF directory are ignored by Git. The download ZIP remains the source package; its original README and checksum manifest are preserved under `docs/source-package-v2/`.
+The historical files in the preceding package are unchanged. This version was generated as a separate local package; no GitHub or Google Drive files were modified.
 
 ## Validation
 
-The supplied package reports that all 38 slides were rendered with LibreOffice, followed by contact-sheet review and selected full-size inspection. It reports layout corrections before the final export and automated checks finding no missing rendered text, shapes outside the slide boundary, missing slide/reference anchors, or incorrect appendix visibility flags. The main duration allocations sum to 40 minutes.
-
-These are the package's recorded checks. Repository import checks are documented separately in [docs/import-v2.md](docs/import-v2.md). Importing the files does not constitute a new clinical, policy, or visual review. The supplied `build/validate.py` also writes a static `visual_review` description from the package; that field does not establish that a new run included manual visual inspection.
+All 38 slides were rendered with LibreOffice, followed by contact-sheet review and selected full-size inspection. Layout corrections were applied before the final export. Automated checks found no missing rendered text, no shapes outside the slide boundary, no missing slide/reference anchors, and no incorrect appendix visibility flags. The main duration allocations sum to 40 minutes.
 
 These checks do not constitute an actual timed rehearsal or a Microsoft PowerPoint rendering test on the presentation computer. Current presenter disclosures were not supplied and have not been invented. The source documents and relevant plan remain authoritative for actual coverage decisions.

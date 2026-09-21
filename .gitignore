@@ -4,3 +4,10 @@ node_modules/
 ~$*
 *.tmp
 npm-debug.log*
+.venv/
+__pycache__/
+*.py[cod]
+/qa/pdf/
+/qa/*_all_slides.pptx
+/qa/slide_*.png
+/qa/montage_*.png
